@@ -1,3 +1,7 @@
+---
+title: "🎬 TUS PENSAMIENTOS SON MENTIRA — Guión Desarrollado"
+---
+
 # 🎬 TUS PENSAMIENTOS SON MENTIRA — Guión Desarrollado
 
 > **Fuente:** MoreMozi — "A Lifetime of Personal Development in 18 Minutes"

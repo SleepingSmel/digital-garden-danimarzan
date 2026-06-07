@@ -1,5 +1,5 @@
 ---
-title: quartz upgrade
+title: "quartz upgrade"
 ---
 
 The `upgrade` command upgrades the Quartz framework itself to the latest version by pulling changes from the official Quartz repository.

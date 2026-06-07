@@ -1,5 +1,5 @@
 ---
-title: EncryptedPages
+title: "EncryptedPages"
 description: Password-protected encrypted pages with shadow content index.
 tags:
   - plugin/transformer
@@ -25,7 +25,7 @@ Add a `password` field to any page's frontmatter to encrypt it:
 
 ```yaml
 ---
-title: My Secret Page
+title: "My Secret Page"
 password: mysecretpassword
 ---
 ```
@@ -42,7 +42,7 @@ To hide an encrypted page entirely until a visitor successfully decrypts it, set
 
 ```yaml
 ---
-title: My Secret Page
+title: "My Secret Page"
 password: mysecretpassword
 unlisted: true
 ---
@@ -68,7 +68,7 @@ If you instead want a page that stays permanently invisible — accessible only 
 
 ```yaml
 ---
-title: Deep Secret
+title: "Deep Secret"
 password: mysecretpassword
 stealth: true
 ---

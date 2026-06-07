@@ -1,3 +1,7 @@
+---
+title: "🎯 Citas Potentes para Guiones de Daniel"
+---
+
 # 🎯 Citas Potentes para Guiones de Daniel
 
 > Frases directas de expertos y autores para dar autoridad a los guiones.

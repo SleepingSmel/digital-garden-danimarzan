@@ -1,3 +1,7 @@
+---
+title: "Promesas rotas — El tablero inclinado"
+---
+
 # Promesas rotas — El tablero inclinado
 
 > *"¿Dónde están los resultados de todas las promesas que se hicieron en el inicio de la democracia? ¿En los años 70, 80, 90? Estudia, esfuérzate, tú tendrás un trabajo cualificado, condiciones de vida que te permitirán emanciparte económicamente, obtener una casa, un coche, formar una familia... ¿Dónde están esos resultados?"*

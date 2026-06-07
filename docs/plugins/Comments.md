@@ -1,5 +1,5 @@
 ---
-title: Comments
+title: "Comments"
 description: Comment system integration (Giscus, Utterances, etc.).
 tags:
   - plugin/component

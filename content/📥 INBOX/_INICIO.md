@@ -1,3 +1,7 @@
+---
+title: "📥 INBOX — Ideas Brutas"
+---
+
 # 📥 INBOX — Ideas Brutas
 
 > Ideas sin procesar. Máximo 5 a la vez.

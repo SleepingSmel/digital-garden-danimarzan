@@ -1,3 +1,7 @@
+---
+title: "📊 INFORME COMPLETO — Mercado Motivación Español + Sistema de Contenido"
+---
+
 # 📊 INFORME COMPLETO — Mercado Motivación Español + Sistema de Contenido
 
 > **Última actualización:** 2026-05-25

@@ -1,3 +1,7 @@
+---
+title: "📋 Playbook de Prospección Automatizada"
+---
+
 # 📋 Playbook de Prospección Automatizada
 ## Hermes Agent → Dani Marzán
 

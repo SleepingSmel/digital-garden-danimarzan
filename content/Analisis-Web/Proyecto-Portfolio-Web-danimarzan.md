@@ -1,3 +1,7 @@
+---
+title: "Proyecto Portfolio Web — danimarzan.com"
+---
+
 # Proyecto Portfolio Web — danimarzan.com
 
 > Estado: Junio 2026

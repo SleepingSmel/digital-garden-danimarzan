@@ -1,5 +1,5 @@
 ---
-title: ComponentResources
+title: "ComponentResources"
 tags:
   - plugin/emitter
 image:

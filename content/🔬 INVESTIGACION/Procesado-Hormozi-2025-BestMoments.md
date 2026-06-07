@@ -1,3 +1,7 @@
+---
+title: "Procesado - Hormozi 2025 Best Moments Modern Wisdom"
+---
+
 # Procesado - Hormozi 2025 Best Moments Modern Wisdom
 
 > **Vídeo:** "The Best Moments of Modern Wisdom (2025)"

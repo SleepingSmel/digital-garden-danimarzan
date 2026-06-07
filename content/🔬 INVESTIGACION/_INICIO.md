@@ -1,3 +1,7 @@
+---
+title: "🔬 INVESTIGACION — Profundidad por Tema"
+---
+
 # 🔬 INVESTIGACION — Profundidad por Tema
 
 > Investigación profunda para alimentar guiones y decisiones de negocio.

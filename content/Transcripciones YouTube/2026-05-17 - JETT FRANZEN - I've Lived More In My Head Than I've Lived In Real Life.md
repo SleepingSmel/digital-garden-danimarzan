@@ -1,3 +1,7 @@
+---
+title: "🎬 Jett Franzen — 'I've Lived More In My Head Than I've Lived In Real Life'"
+---
+
 # 🎬 Jett Franzen — "I've Lived More In My Head Than I've Lived In Real Life"
 
 > Traducción literal del transcript original en español

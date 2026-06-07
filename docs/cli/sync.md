@@ -1,5 +1,5 @@
 ---
-title: quartz sync
+title: "quartz sync"
 ---
 
 The `sync` command automates the process of pushing your local changes to GitHub and pulling updates from your remote repository. It simplifies the Git workflow for users who want to keep their site updated without running manual Git commands.

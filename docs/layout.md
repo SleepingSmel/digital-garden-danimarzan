@@ -1,5 +1,5 @@
 ---
-title: Layout
+title: "Layout"
 ---
 
 Certain emitters may also output [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) files. To enable easy customization, these emitters allow you to fully rearrange the layout of the page.

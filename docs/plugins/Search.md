@@ -1,5 +1,5 @@
 ---
-title: Search
+title: "Search"
 description: Full-text search with tag filtering and keyboard navigation.
 tags:
   - plugin/component

@@ -1,3 +1,7 @@
+---
+title: "I've Lived More In My Head Than I've Lived In Real Life"
+---
+
 # I've Lived More In My Head Than I've Lived In Real Life
 
 ## Metadatos

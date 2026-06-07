@@ -1,3 +1,7 @@
+---
+title: "💡 BANCO DE IDEAS — Centralizado"
+---
+
 # 💡 BANCO DE IDEAS — Centralizado
 
 > Todas las ideas de vídeos en un solo lugar. Organizadas por pilar y estado.

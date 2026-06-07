@@ -1,5 +1,5 @@
 ---
-title: Reader Mode
+title: "Reader Mode"
 tags:
   - component
 ---

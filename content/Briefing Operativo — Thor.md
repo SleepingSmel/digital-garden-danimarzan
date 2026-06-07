@@ -1,3 +1,7 @@
+---
+title: "⚡ Briefing Operativo — Thor (Hermes)"
+---
+
 # ⚡ Briefing Operativo — Thor (Hermes)
 ## Prospección Automatizada para Dani Marzán
 

@@ -4,6 +4,7 @@ status: investigación
 prioridad: alta
 tags: [investigación, outreach, benchmarks, datos-reales, conversión, email, DM, llamadas]
 ---
+title: 🔬 INVESTIGACIÓN PROFUNDA — Outreach de Máximo Ratio de Éxito
 
 # 🔬 INVESTIGACIÓN PROFUNDA — Outreach de Máximo Ratio de Éxito
 

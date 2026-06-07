@@ -1,5 +1,5 @@
 ---
-title: Full-text Search
+title: "Full-text Search"
 tags:
   - component
 ---

@@ -1,3 +1,7 @@
+---
+title: "Doing Less = Achieving More"
+---
+
 # Doing Less = Achieving More
 
 ## Metadatos

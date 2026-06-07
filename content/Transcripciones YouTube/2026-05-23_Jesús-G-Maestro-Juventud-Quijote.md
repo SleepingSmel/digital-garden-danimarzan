@@ -1,3 +1,7 @@
+---
+title: "El Quijote y la juventud: los jóvenes del s.XXI saben que sus profesores les privan de conocimientos"
+---
+
 # El Quijote y la juventud: los jóvenes del s.XXI saben que sus profesores les privan de conocimientos
 **Autor:** Jesús G. Maestro | **Fecha:** 2026-03-02 | **URL:** https://youtu.be/XamPrWj-PXc | **Duración:** 1:18:51
 

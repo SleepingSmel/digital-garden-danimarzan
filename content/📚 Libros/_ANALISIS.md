@@ -1,3 +1,7 @@
+---
+title: "📚 LIBROS — Análisis y Conexiones"
+---
+
 # 📚 LIBROS — Análisis y Conexiones
 
 > Análisis de los libros de Amazon Highlights de Daniel. Conexiones entre libros, autores del vault, videos procesados.

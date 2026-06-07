@@ -1,5 +1,5 @@
 ---
-title: Community
+title: "Community"
 ---
 
 Quartz has a vibrant community of users and contributors. This page highlights community-created plugins, tools, and resources that extend Quartz.

@@ -1,3 +1,7 @@
+---
+title: "🎤 Transcripción — Jon Hernández: 'IA, trabajo y el futuro que viene'"
+---
+
 # 🎤 Transcripción — Jon Hernández: "IA, trabajo y el futuro que viene"
 
 > Transcripción literal de los puntos clave del vídeo.

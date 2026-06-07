@@ -4,6 +4,7 @@ status: investigación
 prioridad: alta
 tags: [investigación, outreach, servicios, contenido, transición, mercado-hispano-usa, competencia]
 ---
+title: 🔬 INVESTIGACIÓN PROFUNDA — Outreach, Servicios y Contenido
 
 # 🔬 INVESTIGACIÓN PROFUNDA — Outreach, Servicios y Contenido
 

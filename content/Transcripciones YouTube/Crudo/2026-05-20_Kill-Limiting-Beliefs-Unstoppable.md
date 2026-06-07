@@ -1,3 +1,7 @@
+---
+title: "🔥 How to Kill Every Limiting Belief and Become Unstoppable"
+---
+
 # 🔥 How to Kill Every Limiting Belief and Become Unstoppable
 
 > **Vídeo original:** [How to Kill Every Limiting Belief and Become Unstoppable](https://youtu.be/oWhRuHoIM5k)

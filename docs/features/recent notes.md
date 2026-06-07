@@ -1,5 +1,5 @@
 ---
-title: Recent Notes
+title: "Recent Notes"
 tags: component
 ---
 

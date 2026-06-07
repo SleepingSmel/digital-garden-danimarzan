@@ -1,3 +1,7 @@
+---
+title: "Procesado - Best Moments Modern Wisdom 2025"
+---
+
 # Procesado - Best Moments Modern Wisdom 2025
 
 > **Vídeo:** "The Best Moments of Modern Wisdom (2025)"

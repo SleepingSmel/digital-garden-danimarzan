@@ -1,5 +1,5 @@
 ---
-title: SyntaxHighlighting
+title: "SyntaxHighlighting"
 description: Syntax highlighting for code blocks.
 tags:
   - plugin/transformer

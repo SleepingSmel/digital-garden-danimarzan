@@ -1,3 +1,7 @@
+---
+title: "INFORME DEFINITIVO: Análisis y Mejoras de danimarzan.com"
+---
+
 # INFORME DEFINITIVO: Análisis y Mejoras de danimarzan.com
 > Análisis exhaustivo del código, diseño, rendimiento, storytelling y propuestas de mejora
 > Fecha: 2026-06-04

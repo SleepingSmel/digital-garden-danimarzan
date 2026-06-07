@@ -1,3 +1,7 @@
+---
+title: "🌙 PROCESADO NOCTURNO — 2026-06-01"
+---
+
 # 🌙 PROCESADO NOCTURNO — 2026-06-01
 
 > **Generado:** 2026-06-01 23:00 (sistema nocturno)

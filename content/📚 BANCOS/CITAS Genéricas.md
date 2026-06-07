@@ -1,3 +1,7 @@
+---
+title: "💎 QUOTES GENÉRICAS — Frases Potentes de Autores"
+---
+
 # 💎 QUOTES GENÉRICAS — Frases Potentes de Autores
 
 > Recopilación de frases cortas, potentes y memorables de diversos autores.

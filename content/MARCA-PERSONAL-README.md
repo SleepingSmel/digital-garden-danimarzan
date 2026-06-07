@@ -1,3 +1,7 @@
+---
+title: "🎯 MARCA PERSONAL — Sistema Central"
+---
+
 # 🎯 MARCA PERSONAL — Sistema Central
 
 > "No voy a dejar de intentarlo. Aunque muera en el intento."

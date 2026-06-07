@@ -1,3 +1,7 @@
+---
+title: "🧠 Zor Vault — Índice Maestro"
+---
+
 # 🧠 Zor Vault — Índice Maestro
 
 > Vault de Obsidian gestionado por Zor/Hermes. Sincronizado con GitHub.

@@ -1,3 +1,7 @@
+---
+title: "ISRA BRAVO | Marketing 'BONITO' = Negocio POBRE  |  Cracks Podcast #367"
+---
+
 # ISRA BRAVO | Marketing "BONITO" = Negocio POBRE  |  Cracks Podcast #367
 **Autor:** Oso Trava | **Fecha:** 2026-01-19 | **URL:** https://www.youtube.com/watch?v=sXIiw3eaJeQ | **Duración:** 1h 49m 56s
 

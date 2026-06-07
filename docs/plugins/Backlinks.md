@@ -1,5 +1,5 @@
 ---
-title: Backlinks
+title: "Backlinks"
 description: Shows pages that link to the current page.
 tags:
   - plugin/component

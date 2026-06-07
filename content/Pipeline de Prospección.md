@@ -1,3 +1,7 @@
+---
+title: "📊 Pipeline de Prospección — Dani Marzán"
+---
+
 # 📊 Pipeline de Prospección — Dani Marzán
 
 **Última actualización:** 2026-06-03

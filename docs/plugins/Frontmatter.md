@@ -1,5 +1,5 @@
 ---
-title: Frontmatter
+title: "Frontmatter"
 aliases:
   - note-properties
   - Note Properties
@@ -74,7 +74,7 @@ These keys are automatically excluded from the visible properties table.
 
 ```yaml title="Example frontmatter"
 ---
-title: My Note
+title: "My Note"
 quartz-properties: true
 quartz-properties-collapse: false
 ---

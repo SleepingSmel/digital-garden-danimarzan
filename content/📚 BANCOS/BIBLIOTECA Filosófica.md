@@ -1,3 +1,7 @@
+---
+title: "📚 BIBLIOTECA FILOSÓFICA — Conceptos y Frases para Guiones"
+---
+
 # 📚 BIBLIOTECA FILOSÓFICA — Conceptos y Frases para Guiones
 
 > Investigación profunda de autores. Material para que Daniel desarrolle sus propios guiones.

@@ -1,5 +1,5 @@
 ---
-title: quartz build
+title: "quartz build"
 aliases:
   - build
 ---

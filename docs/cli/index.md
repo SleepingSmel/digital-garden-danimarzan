@@ -1,5 +1,5 @@
 ---
-title: CLI Reference
+title: "CLI Reference"
 ---
 
 The Quartz CLI is the primary way to interact with your Quartz project. It provides commands for creating new projects, building static sites, syncing with GitHub, and managing plugins.

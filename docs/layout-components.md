@@ -1,5 +1,5 @@
 ---
-title: Higher-Order Layout Components
+title: "Higher-Order Layout Components"
 ---
 
 Quartz provides several higher-order components that help with layout composition and responsive design. These components wrap other components to add additional functionality or modify their behavior.

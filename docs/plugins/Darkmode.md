@@ -1,5 +1,5 @@
 ---
-title: Darkmode
+title: "Darkmode"
 description: Toggle between light and dark themes.
 tags:
   - plugin/component

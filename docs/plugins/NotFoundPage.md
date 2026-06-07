@@ -1,5 +1,5 @@
 ---
-title: NotFoundPage
+title: "NotFoundPage"
 tags:
   - plugin/pageType
 image:

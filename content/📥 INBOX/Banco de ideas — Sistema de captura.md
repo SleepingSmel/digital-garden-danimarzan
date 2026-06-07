@@ -1,3 +1,7 @@
+---
+title: "💡 Banco de ideas — Sistema de captura"
+---
+
 # 💡 Banco de ideas — Sistema de captura
 
 > Cada vez que surja una idea, una frase, un concepto, un vídeo de Jett que te inspire — anótalo aquí.

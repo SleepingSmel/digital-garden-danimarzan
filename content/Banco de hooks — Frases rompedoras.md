@@ -1,3 +1,7 @@
+---
+title: "🪝 Banco de hooks — Frases rompedoras"
+---
+
 # 🪝 Banco de hooks — Frases rompedoras
 
 > Usa estos como punto de partida. Adáptalos. Mézclalos. Hazlos tuyos.

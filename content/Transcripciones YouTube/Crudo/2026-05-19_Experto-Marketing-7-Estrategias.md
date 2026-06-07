@@ -1,3 +1,7 @@
+---
+title: "Experto en Marketing: 7 Estrategias para Crecer en Redes y Vender Más"
+---
+
 # Experto en Marketing: 7 Estrategias para Crecer en Redes y Vender Más
 
 ## Metadatos

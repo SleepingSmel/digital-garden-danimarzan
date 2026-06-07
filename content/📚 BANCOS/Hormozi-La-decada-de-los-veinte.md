@@ -1,3 +1,7 @@
+---
+title: "Hormozi — La década de los veinte"
+---
+
 # Hormozi — La década de los veinte
 
 > **Fuente:** Post de Alex Hormozi en Facebook (nav.ahormozi)

@@ -1,3 +1,7 @@
+---
+title: "🔬 ANÁLISIS HOLÍSTICO: 'Demuestra tu Carácter' — Daniel Marzán"
+---
+
 # 🔬 ANÁLISIS HOLÍSTICO: "Demuestra tu Carácter" — Daniel Marzán
 
 > **Fecha análisis:** 2026-05-29
@@ -164,7 +168,7 @@ Simple. Directo. Sin relleno.
 |--------------------|-------------|------|-------------|
 | **Jordi Segués: Ley 1 (Atención)** | ✅ Sí | 9/10 | Entra directo, sin relleno |
 | **Jordi Segués: Ley 4 (Dolor visual)** | ✅ Sí | 9/10 | Porteros temblando, siendo pisados |
-| **Jordi Segués: Ley 5 (Enemigo)** | ✅ Implícito | 7/10 | El enemino es "dejarse pisar" / sociedad que dice que no puedes cambiar |
+|| **Jordi Segués: Ley 5 (Enemigo)** | ⚠️ Implícito | 7/10 | El enemigo es difuso: "dejarse pisar" / "la sociedad" — necesita ser NOMBREADO, VISUAL y CONCRETO. Ver [[El-Enemigo-Comun-en-Comunicacion]] |
 | **Jordi Segués: Ley 7 (Velocidad)** | ✅ Sí | 9/10 | Fluye, no se para, no repite lo mismo |
 | **Víctor Heras: 4 pilares** | ⚠️ Parcial | 5/10 | No está en ninguno de los 4 explícitamente (salud, sexo, dinero, desarrollo). |
 | **Víctor Heras: Filtro 550** | ✅ Sí | 10/10 | Un niño de 5 años entiende que hay que imponerse. Y a cualquier persona le interesa. |

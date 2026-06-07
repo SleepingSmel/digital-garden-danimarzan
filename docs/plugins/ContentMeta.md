@@ -1,5 +1,5 @@
 ---
-title: ContentMeta
+title: "ContentMeta"
 description: Displays creation date and reading time.
 tags:
   - plugin/component

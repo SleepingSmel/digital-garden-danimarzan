@@ -3,6 +3,7 @@ date: 2026-06-03
 status: plantilla
 tag: [template, outreach, prospección, clientes]
 ---
+title: 📋 TEMPLATE 1 — Prospección de Empresas
 
 # 📋 TEMPLATE 1 — Prospección de Empresas
 

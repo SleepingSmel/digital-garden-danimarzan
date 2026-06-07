@@ -1,3 +1,7 @@
+---
+title: "🔍 Investigación Desarrollada — 'El mejor escenario posible es una vida que da náuseas'"
+---
+
 # 🔍 Investigación Desarrollada — "El mejor escenario posible es una vida que da náuseas"
 
 > Referencias completas con contexto, desarrollo, citas y contra-argumentos.

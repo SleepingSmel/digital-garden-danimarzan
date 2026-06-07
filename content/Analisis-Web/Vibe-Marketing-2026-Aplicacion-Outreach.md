@@ -1,3 +1,7 @@
+---
+title: "Análisis: Vibe Marketing 2026 — ¿Podemos aplicarlo a nuestro outreach B2B?"
+---
+
 # Análisis: Vibe Marketing 2026 — ¿Podemos aplicarlo a nuestro outreach B2B?
 
 > **Video:** "La nueva forma de hacer marketing en 2026" — Benja (Imperium)

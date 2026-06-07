@@ -1,5 +1,5 @@
 ---
-title: Footer
+title: "Footer"
 description: Page footer with configurable links.
 tags:
   - plugin/component

@@ -3,6 +3,7 @@ date: 2026-06-03
 status: plantilla
 tag: [template, servicios, buyer-persona, precios, oferta]
 ---
+title: 📋 TEMPLATE 3 — Servicios, Precios y Buyer Persona
 
 # 📋 TEMPLATE 3 — Servicios, Precios y Buyer Persona
 

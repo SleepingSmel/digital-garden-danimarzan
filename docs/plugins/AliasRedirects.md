@@ -1,5 +1,5 @@
 ---
-title: AliasRedirects
+title: "AliasRedirects"
 description: Generates redirect pages from frontmatter aliases.
 tags:
   - plugin/emitter

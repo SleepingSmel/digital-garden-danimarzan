@@ -1,5 +1,5 @@
 ---
-title: Static
+title: "Static"
 tags:
   - plugin/emitter
 image:

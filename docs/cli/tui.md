@@ -1,5 +1,5 @@
 ---
-title: quartz tui
+title: "quartz tui"
 ---
 
 The `tui` command launches an interactive terminal user interface for managing your Quartz project. It provides a visual way to manage plugins, arrange your site layout, and edit general settings.

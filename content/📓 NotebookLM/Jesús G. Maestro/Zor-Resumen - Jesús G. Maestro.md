@@ -1,3 +1,7 @@
+---
+title: "Zor-Resumen - Jesús G. Maestro"
+---
+
 # Zor-Resumen - Jesús G. Maestro
 
 > **Autor:** Jesús G. Maestro — Catedrático de Teoría de la Literatura, Universidad de Vigo

@@ -1,3 +1,7 @@
+---
+title: "Zor Resumen   Alex Hormozi"
+---
+
 > **Autor:** Alex Hormozi
 > **Enfoque:** Negocios, escalado, marketing, mentalidad de crecimiento, $100M
 > **Canal:** @AlexHormozi

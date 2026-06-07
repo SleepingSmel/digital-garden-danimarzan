@@ -1,3 +1,7 @@
+---
+title: "Zor Resumen   Euge Oller"
+---
+
 > **Autor:** Euge Oller
 > **Enfoque:** Redes sociales, crecimiento, contenido viral, monetización
 > **Canal:** @EugeOller

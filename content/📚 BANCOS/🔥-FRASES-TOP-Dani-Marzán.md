@@ -1,3 +1,7 @@
+---
+title: "🔥 FRASES TOP — Frases potentes de Dani Marzán"
+---
+
 # 🔥 FRASES TOP — Frases potentes de Dani Marzán
 
 > **Propósito:** Repositorio de frases cortas, potentes y memorables dichas por Dani Marzán (o por otros creators para Dani).

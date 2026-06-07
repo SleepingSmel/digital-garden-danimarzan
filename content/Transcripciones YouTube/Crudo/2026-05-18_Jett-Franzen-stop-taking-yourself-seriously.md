@@ -1,3 +1,7 @@
+---
+title: "Stop Taking Yourself Seriously"
+---
+
 # Stop Taking Yourself Seriously
 
 ## Metadatos

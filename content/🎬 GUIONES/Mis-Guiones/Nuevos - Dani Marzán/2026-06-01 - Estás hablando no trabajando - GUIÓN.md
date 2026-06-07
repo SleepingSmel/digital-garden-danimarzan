@@ -1,3 +1,7 @@
+---
+title: "🎬 Estás Hablando, No Trabajando — Guión desde Alex Hormozi"
+---
+
 # 🎬 Estás Hablando, No Trabajando — Guión desde Alex Hormozi
 
 > **Fuente:** YouTube "You're Not Doing The Work" (IronWill, 2026) — Compilación de frases de Alex Hormozi, David Goggins, Andrew Tate, Greg Plitt

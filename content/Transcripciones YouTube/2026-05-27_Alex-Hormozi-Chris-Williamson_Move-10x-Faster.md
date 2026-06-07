@@ -1,3 +1,7 @@
+---
+title: "How To Move 10x Faster In Life — Alex Hormozi"
+---
+
 # How To Move 10x Faster In Life — Alex Hormozi
 **Podcast:** Modern Wisdom con Chris Williamson
 **Fecha original:** 2023-08-21 | **Duración:** 2:54:28 | **Vistas:** 4.3M

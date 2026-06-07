@@ -1,3 +1,7 @@
+---
+title: "Flashcards — How To Move 10x Faster In Life (Alex Hormozi + Chris Williamson)"
+---
+
 # Flashcards — How To Move 10x Faster In Life (Alex Hormozi + Chris Williamson)
 **Procesado:** 2026-05-27 | **Fuente:** Modern Wisdom Podcast | **Duración:** 2:54h | **Total:** 40 flashcards
 

@@ -1,3 +1,7 @@
+---
+title: "🐺 MENTALIDAD 'LEVÁNTATE Y ESFUÉRZATE' — Análisis Completo"
+---
+
 # 🐺 MENTALIDAD "LEVÁNTATE Y ESFUÉRZATE" — Análisis Completo
 
 > **Vídeo original:** [MENTALIDAD "LEVÁNTATE Y ESFUÉRZATE" - Discurso de motivación Cole "The Wolf" DaSilva](https://youtu.be/dpO1IyIexUc)

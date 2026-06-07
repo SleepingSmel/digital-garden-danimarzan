@@ -1,3 +1,7 @@
+---
+title: "La Triple D — Mi generación, mi comunicación"
+---
+
 # La Triple D — Mi generación, mi comunicación
 
 > **"La generación milenarista y la Generación Z — yo estoy entre esas dos — sufrimos los fracasos heredados de generaciones pasadas: desengaño, decepción y desencanto. La Triple D."**

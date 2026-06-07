@@ -1,3 +1,7 @@
+---
+title: "Zor Resumen   David Goggins"
+---
+
 > **Autor:** David Goggins
 > **Enfoque:** Mentalidad, disciplina, resiliencia, superación, Navy SEAL
 > **Canal:** @DavidGoggins

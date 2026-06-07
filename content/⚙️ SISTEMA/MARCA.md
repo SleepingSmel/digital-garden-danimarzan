@@ -1,3 +1,7 @@
+---
+title: "🎯 MARCA DANI MARZÁN — Manual de Identidad"
+---
+
 # 🎯 MARCA DANI MARZÁN — Manual de Identidad
 
 > **Última actualización:** 2026-05-25

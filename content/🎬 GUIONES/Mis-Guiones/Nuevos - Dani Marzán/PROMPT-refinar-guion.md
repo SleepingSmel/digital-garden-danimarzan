@@ -1,3 +1,7 @@
+---
+title: "PROMPT PARA REFINAR GUION — 'Estás Hablando, No Trabajando'"
+---
+
 # PROMPT PARA REFINAR GUION — "Estás Hablando, No Trabajando"
 
 > Pega este prompt en Claude Code o ChatGPT para una segunda pasada de refinamiento.

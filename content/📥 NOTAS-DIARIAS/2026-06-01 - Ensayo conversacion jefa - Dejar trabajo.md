@@ -1,3 +1,7 @@
+---
+title: "Notas Diarias — Daniel Marzán"
+---
+
 # Notas Diarias — Daniel Marzán
 
 > **Propósito:** Archivo de procesamiento diario. Daniel envía notas de voz transcritas / pensamientos / conversaciones. El sistema cruza con el vault y genera conexiones, títulos y propósito de guión.

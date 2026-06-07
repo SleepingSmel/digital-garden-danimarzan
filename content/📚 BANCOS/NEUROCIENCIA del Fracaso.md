@@ -1,3 +1,7 @@
+---
+title: "🧠 NEUROCIENCIA DEL FRACASO — Datos para el Script 'He Fracasado'"
+---
+
 # 🧠 NEUROCIENCIA DEL FRACASO — Datos para el Script "He Fracasado"
 
 > Investigación: Quanta Magazine (abr 2026), Healthline (2024), PMC/NIH (2025), Frontiers in Psychology (2025)

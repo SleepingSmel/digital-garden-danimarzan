@@ -4,6 +4,7 @@ status: investigación
 prioridad: alta
 tags: [georgia, freelancer, autónomo, fiscalidad, residencia, batumi, tbilisi, nómada-digital]
 ---
+title: 🇬🇪 GEORGIA — Guía Completa para Establecerse como Freelancer Digital
 
 # 🇬🇪 GEORGIA — Guía Completa para Establecerse como Freelancer Digital
 

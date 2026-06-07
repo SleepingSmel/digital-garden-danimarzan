@@ -3,6 +3,7 @@ date: 2026-06-03
 status: procesado
 tags: [jordi-segués, marca-personal, transcripción, youtube, embudo, orgánico]
 ---
+title: 🪪 Jordi Segués — Cómo Crear una Marca Personal en 2026
 
 # 🪪 Jordi Segués — Cómo Crear una Marca Personal en 2026
 

@@ -1,3 +1,7 @@
+---
+title: "🔧 Fuentes y Herramientas de Investigación"
+---
+
 # 🔧 Fuentes y Herramientas de Investigación
 
 > Compilación de fuentes útiles para investigación, verificación de datos y extracción de contenido.

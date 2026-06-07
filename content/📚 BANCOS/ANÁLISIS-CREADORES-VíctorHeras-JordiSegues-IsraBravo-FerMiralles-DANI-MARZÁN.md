@@ -1,3 +1,7 @@
+---
+title: "🔥 MEGA-ANÁLISIS: VÍCTOR HERAS + JORDI SEGUÉS + ISRA BRAVO + FER MIRALES"
+---
+
 # 🔥 MEGA-ANÁLISIS: VÍCTOR HERAS + JORDI SEGUÉS + ISRA BRAVO + FER MIRALES
 ## Adaptado a la fórmula de Dani Marzán — Canal @SoyPorteroYT
 

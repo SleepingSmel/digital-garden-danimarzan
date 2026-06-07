@@ -1,3 +1,7 @@
+---
+title: "🧠 Frameworks de Jordi Segués"
+---
+
 # 🧠 Frameworks de Jordi Segués
 
 > Modelos y sistemas propuestos por Jordi Segués para marca personal y contenido.

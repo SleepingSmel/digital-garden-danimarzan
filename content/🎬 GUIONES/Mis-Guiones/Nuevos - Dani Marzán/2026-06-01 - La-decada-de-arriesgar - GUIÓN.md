@@ -1,3 +1,7 @@
+---
+title: "🎬 La Década de Arriesgar — Guión Template"
+---
+
 # 🎬 La Década de Arriesgar — Guión Template
 
 > **Fuente principal:** [[Hormozi-La-decada-de-los-veinte]] — Post de Alex Hormozi en Facebook

@@ -1,5 +1,5 @@
 ---
-title: Comments
+title: "Comments"
 tags:
   - component
 ---
@@ -176,7 +176,7 @@ Quartz can conditionally display the comment box based on a field `comments` in 
 
 ```
 ---
-title: Comments disabled here!
+title: "Comments disabled here!"
 comments: false
 ---
 ```

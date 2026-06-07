@@ -1,3 +1,7 @@
+---
+title: "🗺️ MOC — Mapa del Vault"
+---
+
 # 🗺️ MOC — Mapa del Vault
 
 > **Última actualización:** 2026-06-03

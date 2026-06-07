@@ -1,3 +1,7 @@
+---
+title: "🎬 HE FRACASADO EN MISIÓN Y ME ALEGRO POR ELLO"
+---
+
 # 🎬 HE FRACASADO EN MISIÓN Y ME ALEGRO POR ELLO
 
 > **Estado:** 🔴 Borrador — necesita perfeccionamiento

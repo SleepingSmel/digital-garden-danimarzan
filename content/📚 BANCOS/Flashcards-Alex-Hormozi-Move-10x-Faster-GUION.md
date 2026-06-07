@@ -1,3 +1,7 @@
+---
+title: "🎴 FLASHCARDS — Alex Hormozi: How To Move 10x Faster"
+---
+
 # 🎴 FLASHCARDS — Alex Hormozi: How To Move 10x Faster
 **Fuente:** Modern Wisdom Podcast con Chris Williamson | **Procesado:** 2026-05-30
 **Total:** 35 flashcards | **Enfoque:** Guiones de Dani Marzán

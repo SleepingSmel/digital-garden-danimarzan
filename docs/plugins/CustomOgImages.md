@@ -1,5 +1,5 @@
 ---
-title: Custom OG Images
+title: "Custom OG Images"
 description: Generates Open Graph social preview images.
 tags:
   - feature/emitter

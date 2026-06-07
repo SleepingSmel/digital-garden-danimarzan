@@ -1,3 +1,7 @@
+---
+title: "🧠 Perfil de Daniel — Documento de Referencia para Zor"
+---
+
 # 🧠 Perfil de Daniel — Documento de Referencia para Zor
 
 > **Propósito:** Fuente de verdad sobre quién es Daniel, qué quiere, y cómo Zor debe operar.

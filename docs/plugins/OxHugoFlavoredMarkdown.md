@@ -1,5 +1,5 @@
 ---
-title: OxHugoFlavoredMarkdown
+title: "OxHugoFlavoredMarkdown"
 description: Compatibility for ox-hugo exported Org-mode files.
 tags:
   - plugin/transformer

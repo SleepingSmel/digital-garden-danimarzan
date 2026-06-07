@@ -1,3 +1,7 @@
+---
+title: "🧠 FILOSOFÍA DE GUIONES — Dani Marzán"
+---
+
 # 🧠 FILOSOFÍA DE GUIONES — Dani Marzán
 
 > **Creado:** 2026-05-29

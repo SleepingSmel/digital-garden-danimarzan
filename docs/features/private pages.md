@@ -1,5 +1,5 @@
 ---
-title: Private Pages
+title: "Private Pages"
 tags:
   - feature/filter
 ---

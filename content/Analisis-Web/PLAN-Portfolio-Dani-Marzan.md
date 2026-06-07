@@ -1,3 +1,7 @@
+---
+title: "PLAN: Portfolio Dani Marzán — Estilo Viszen Simplificado"
+---
+
 # PLAN: Portfolio Dani Marzán — Estilo Viszen Simplificado
 > Análisis profundo + Plan de implementación
 > Fecha: 2026-06-04

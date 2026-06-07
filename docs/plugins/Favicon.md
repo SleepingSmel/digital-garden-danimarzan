@@ -1,5 +1,5 @@
 ---
-title: Favicon
+title: "Favicon"
 description: Emits the site favicon.
 tags:
   - plugin/emitter

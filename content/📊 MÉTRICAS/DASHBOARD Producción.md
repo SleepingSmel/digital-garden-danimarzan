@@ -1,3 +1,7 @@
+---
+title: "🎛️ DASHBOARD — Producción de Contenido"
+---
+
 # 🎛️ DASHBOARD — Producción de Contenido
 
 > Vista general del pipeline de creación de contenido. Consultar para saber en qué estado está cada vídeo.

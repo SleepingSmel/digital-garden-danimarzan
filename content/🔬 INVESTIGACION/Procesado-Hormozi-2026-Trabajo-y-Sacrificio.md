@@ -1,3 +1,7 @@
+---
+title: "Procesado - Hormozi 2026 Trabajo y Sacrificio"
+---
+
 # Procesado - Hormozi 2026 Trabajo y Sacrificio
 
 > **Vídeo:** "The Most Important 20 Minutes You'll Spend In 2026" — Alex Hormozi x Chris Williamson

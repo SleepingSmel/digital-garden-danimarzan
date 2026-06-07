@@ -1,3 +1,7 @@
+---
+title: "📓 Resumen — Víctor Heras"
+---
+
 # 📓 Resumen — Víctor Heras
 
 > **Fuentes:** [[Dani-Conversación NLM - Víctor Heras]] · Vídeo "Experto En Viralidad" (Adrián Sáenz) · Artículo Merca2 · Vídeo "Cómo Ganar Mucho DINERO" (Media Power)

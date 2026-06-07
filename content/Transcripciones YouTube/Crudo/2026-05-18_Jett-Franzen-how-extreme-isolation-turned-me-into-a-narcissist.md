@@ -1,3 +1,7 @@
+---
+title: "How Extreme Isolation Turned Me Into A Narcissist"
+---
+
 # How Extreme Isolation Turned Me Into A Narcissist
 
 ---

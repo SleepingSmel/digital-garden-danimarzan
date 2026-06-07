@@ -1,5 +1,5 @@
 ---
-title: UnlistedPages
+title: "UnlistedPages"
 description: Hides pages from navigation and indexes while still publishing them.
 tags:
   - plugin/transformer
@@ -21,7 +21,7 @@ Add an `unlisted` field to any page's frontmatter:
 
 ```yaml
 ---
-title: My Draft
+title: "My Draft"
 unlisted: true
 ---
 ```

@@ -1,3 +1,7 @@
+---
+title: "🔍 Jett Franzen — Análisis de referencia"
+---
+
 # 🔍 Jett Franzen — Análisis de referencia
 
 ## Perfil

@@ -1,3 +1,7 @@
+---
+title: "Only a Slave Quantifies Its Existence Through Productivity"
+---
+
 # Only a Slave Quantifies Its Existence Through Productivity
 
 ## Metadatos

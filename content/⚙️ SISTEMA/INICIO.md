@@ -1,3 +1,7 @@
+---
+title: "🏠 Inicio — Dani Marzán"
+---
+
 # 🏠 Inicio — Dani Marzán
 
 > "No voy a dejar de intentarlo. Aunque muera en el intento."

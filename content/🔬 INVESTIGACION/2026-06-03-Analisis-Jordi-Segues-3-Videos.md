@@ -4,6 +4,7 @@ status: análisis-estrategia
 prioridad: alta
 tags: [jordi-segués, análisis, neuroventas, marca-personal, millonario, estrategia, lecciones]
 ---
+title: 🧠 ANÁLISIS JORDI SEGUÉS — 3 Vídeos Procesados
 
 # 🧠 ANÁLISIS JORDI SEGUÉS — 3 Vídeos Procesados
 

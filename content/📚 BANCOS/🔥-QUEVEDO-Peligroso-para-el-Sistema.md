@@ -1,3 +1,7 @@
+---
+title: "🔥 QUEVEDO — El tipo que dijo la verdad hace 400 años y el sistema no ha cambiado"
+---
+
 # 🔥 QUEVEDO — El tipo que dijo la verdad hace 400 años y el sistema no ha cambiado
 
 **Autor:** Francisco Gómez de Queredo y Villegas (1580-1645)

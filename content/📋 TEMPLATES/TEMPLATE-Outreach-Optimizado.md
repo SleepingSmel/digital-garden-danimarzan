@@ -3,6 +3,7 @@ date: 2026-06-03
 status: plantilla-optimizada
 tag: [template, outreach, optimizado, datos-reales, alta-conversión]
 ---
+title: 📋 TEMPLATE OUTREACH OPTIMIZADO — Máximo Ratio de Éxito
 
 # 📋 TEMPLATE OUTREACH OPTIMIZADO — Máximo Ratio de Éxito
 

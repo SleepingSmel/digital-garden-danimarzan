@@ -1,3 +1,7 @@
+---
+title: "📓 Resumen — Jordi Segués"
+---
+
 # 📓 Resumen — Jordi Segués
 
 > **Fuentes:** [[Conversación NLM - Jordi Segués]] · [[Conversación Completa NLM Jordi Segués]]

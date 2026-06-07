@@ -1,5 +1,5 @@
 ---
-title: Creating Component Plugins
+title: "Creating Component Plugins"
 ---
 
 > [!warning]

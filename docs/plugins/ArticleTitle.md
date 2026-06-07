@@ -1,5 +1,5 @@
 ---
-title: ArticleTitle
+title: "ArticleTitle"
 description: Renders the article title as an h1 heading.
 tags:
   - plugin/component

@@ -1,3 +1,7 @@
+---
+title: "MEGA DOCUMENTO: Flujo de Outreach B2B — Daniel Marzán"
+---
+
 # MEGA DOCUMENTO: Flujo de Outreach B2B — Daniel Marzán
 
 > **Versión:** 2026-06-06

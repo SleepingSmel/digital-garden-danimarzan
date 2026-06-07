@@ -1,5 +1,5 @@
 ---
-title: Troubleshooting
+title: "Troubleshooting"
 ---
 
 Common issues and solutions when working with Quartz.

@@ -1,3 +1,7 @@
+---
+title: "Dani Conversación NLM   Jordi Segués"
+---
+
 > **Autor:** Jordi Segués
 > **Enfoque:** Marca personal, storytelling, comunicación, oratoria
 > **Canal:** @JordiSegues

@@ -1,3 +1,7 @@
+---
+title: "📚 Autores filosóficos — Biblioteca mental"
+---
+
 # 📚 Autores filosóficos — Biblioteca mental
 
 > Referencias para dar profundidad a los vídeos. No citar por citar. Usar cuando la idea lo pida.

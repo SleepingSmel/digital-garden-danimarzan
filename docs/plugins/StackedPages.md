@@ -1,5 +1,5 @@
 ---
-title: StackedPages
+title: "StackedPages"
 description: Andy Matuschak-style stacked sliding panes.
 tags:
   - plugin/component

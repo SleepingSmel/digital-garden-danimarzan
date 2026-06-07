@@ -1,3 +1,7 @@
+---
+title: "🗄️ ARCHIVO — Ya No Activo"
+---
+
 # 🗄️ ARCHIVO — Ya No Activo
 
 > Archivos que ya no están activos pero se conservan por si se necesitan.

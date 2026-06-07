@@ -1,3 +1,7 @@
+---
+title: "📱 MOC — Abora AI: Chat with Legends"
+---
+
 # 📱 MOC — Abora AI: Chat with Legends
 
 > **Proyecto:** Abora AI — App de chat con figuras históricas

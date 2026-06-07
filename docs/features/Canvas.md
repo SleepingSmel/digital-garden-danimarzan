@@ -1,5 +1,5 @@
 ---
-title: Canvas Support
+title: "Canvas Support"
 tags:
   - component
 ---

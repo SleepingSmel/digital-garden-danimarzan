@@ -1,5 +1,5 @@
 ---
-title: HardLineBreaks
+title: "HardLineBreaks"
 description: Treats single newlines as hard line breaks.
 tags:
   - plugin/transformer

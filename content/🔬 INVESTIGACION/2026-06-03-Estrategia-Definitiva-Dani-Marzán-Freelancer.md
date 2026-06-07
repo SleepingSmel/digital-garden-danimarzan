@@ -4,6 +4,7 @@ status: estrategia-activa
 prioridad: máxima
 tags: [estrategia, dani-marzán, jordi-segués, cv, freelancer, clientes, outreach, marca-personal]
 ---
+title: 🎯 ESTRATEGIA DEFINITIVA — Dani Marzán Freelancer
 
 # 🎯 ESTRATEGIA DEFINITIVA — Dani Marzán Freelancer
 

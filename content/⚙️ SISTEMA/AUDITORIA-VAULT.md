@@ -1,3 +1,7 @@
+---
+title: "AUDITORIA VAULT — Dani Marzán"
+---
+
 # AUDITORIA VAULT — Dani Marzán
 
 > Última auditoría automática: 2026-06-03

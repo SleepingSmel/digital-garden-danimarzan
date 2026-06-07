@@ -1,3 +1,7 @@
+---
+title: "🎬 GUIONES — Listos para Grabar"
+---
+
 # 🎬 GUIONES — Listos para Grabar
 
 > Desarrollo completo. Listos para que Daniel grabe.

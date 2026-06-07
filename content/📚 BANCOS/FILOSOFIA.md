@@ -1,3 +1,7 @@
+---
+title: "📚 BIBLIOTECA FILOSÓFICA — Citas y Conceptos para Guiones"
+---
+
 # 📚 BIBLIOTECA FILOSÓFICA — Citas y Conceptos para Guiones
 
 > **Última actualización:** 2026-05-22

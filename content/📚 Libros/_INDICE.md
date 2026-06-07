@@ -1,3 +1,7 @@
+---
+title: "📚 Libros — Índice de Highlights"
+---
+
 # 📚 Libros — Índice de Highlights
 
 > Amazon Highlights de Daniel. Conexiones entre libros, autores del vault, videos procesados y notas diarias.

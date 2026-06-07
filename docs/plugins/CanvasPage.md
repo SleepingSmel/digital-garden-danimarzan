@@ -1,5 +1,5 @@
 ---
-title: CanvasPage
+title: "CanvasPage"
 description: Renders JSON Canvas files as interactive, pannable pages.
 tags:
   - plugin/pageType

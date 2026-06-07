@@ -1,3 +1,7 @@
+---
+title: "Procesado - Andy Frisella 2025 Realidad del Esfuerzo"
+---
+
 # Procesado - Andy Frisella 2025 Realidad del Esfuerzo
 
 > **Vídeo:** "Andy Frisella Motivation — The Reality Of Struggles"

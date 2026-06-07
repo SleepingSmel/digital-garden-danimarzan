@@ -1,5 +1,5 @@
 ---
-title: ExplicitPublish
+title: "ExplicitPublish"
 description: "Only publishes pages explicitly marked with publish: true."
 tags:
   - plugin/filter

@@ -1,3 +1,7 @@
+---
+title: "🎙️ Fer Miralles #001 — Jordi Segués + Euge Oller"
+---
+
 # 🎙️ Fer Miralles #001 — Jordi Segués + Euge Oller
 ## Podcast Saber Comunicar: Polarización, Marketing, Comunicación y Negocio
 

@@ -1,5 +1,5 @@
 ---
-title: quartz plugin
+title: "quartz plugin"
 ---
 
 The `plugin` command is the heart of the Quartz v5 plugin management system. it allows you to install, configure, and update plugins directly from the command line.

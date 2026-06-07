@@ -4,6 +4,7 @@ status: estrategia-activa
 prioridad: máxima
 tags: [estrategia, freelancer, redes-sociales, video, web, presencia-digital, jordi-segués, neuroventas]
 ---
+title: 🎯 ESTRATEGIA DEFINITIVI — Dani Marzán Freelancer de Redes Sociales, Video, Web y Presencia Digital
 
 # 🎯 ESTRATEGIA DEFINITIVI — Dani Marzán Freelancer de Redes Sociales, Video, Web y Presencia Digital
 

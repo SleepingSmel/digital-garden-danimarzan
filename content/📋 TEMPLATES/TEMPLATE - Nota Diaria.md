@@ -1,3 +1,7 @@
+---
+title: "📅 [FECHA] — Diario de Producción"
+---
+
 # 📅 [FECHA] — Diario de Producción
 
 > Nota diaria. Zor actualiza durante el día con las tareas realizadas.

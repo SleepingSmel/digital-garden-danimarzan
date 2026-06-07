@@ -1,3 +1,7 @@
+---
+title: "📐 Estructura de vídeo — Formato estándar"
+---
+
 # 📐 Estructura de vídeo — Formato estándar
 
 ## Formato: Talking head puro. Sin cortes. Sin edición. Grabar y subir.

@@ -1,3 +1,7 @@
+---
+title: "📓 NotebookLM — Guía de Preguntas por Cuaderno"
+---
+
 # 📓 NotebookLM — Guía de Preguntas por Cuaderno
 
 > **Uso:** Copiar la pregunta → Pegar en el cuaderno de NotebookLM correspondiente → Copiar la respuesta útil → Pegar en la nota de Obsidian de ese autor.

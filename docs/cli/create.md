@@ -1,5 +1,5 @@
 ---
-title: quartz create
+title: "quartz create"
 ---
 
 The `create` command initializes a new Quartz project. It helps you set up your content folder, choose a configuration template, set your site's base URL, and configure how Quartz should handle your Markdown files.

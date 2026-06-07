@@ -1,3 +1,7 @@
+---
+title: "🎬 NO ERES NADIE (Y eso es genial) — Template de Guión"
+---
+
 # 🎬 NO ERES NADIE (Y eso es genial) — Template de Guión
 
 > **Fuente:** Alex Hormozi en Modern Wisdom Podcast (episodio "41 Harsh Truths Nobody Wants To Admit")

@@ -1,5 +1,5 @@
 ---
-title: Encrypted Pages Demo
+title: "Encrypted Pages Demo"
 password: quartz
 unlisted: true
 tags:

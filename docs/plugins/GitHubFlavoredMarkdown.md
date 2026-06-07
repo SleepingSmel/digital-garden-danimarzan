@@ -1,5 +1,5 @@
 ---
-title: GitHubFlavoredMarkdown
+title: "GitHubFlavoredMarkdown"
 description: GitHub Flavored Markdown support (tables, task lists, footnotes, strikethrough).
 tags:
   - plugin/transformer

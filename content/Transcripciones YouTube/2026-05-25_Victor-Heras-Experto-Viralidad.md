@@ -1,3 +1,7 @@
+---
+title: "Transcripción — Víctor Heras: Experto En Viralidad"
+---
+
 # Transcripción — Víctor Heras: Experto En Viralidad
 
 > **Vídeo:** [Experto En Viralidad: La Nueva Forma De Vnder En Redes Sociales](https://youtu.be/gzg2XIZy-Z4)

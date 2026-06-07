@@ -4,6 +4,7 @@ status: estrategia-activa
 prioridad: máxima
 tags: [estrategia, dani-marzán, jordi-segués, cv, freelancer, remoto, georgia, usa, clientes]
 ---
+title: 🎯 ESTRATEGIA DEFINITIVA — Dani Marzán Freelancer Digital desde Georgia
 
 # 🎯 ESTRATEGIA DEFINITIVA — Dani Marzán Freelancer Digital desde Georgia
 

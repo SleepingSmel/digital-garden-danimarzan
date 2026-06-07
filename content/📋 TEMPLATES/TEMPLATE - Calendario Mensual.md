@@ -1,3 +1,7 @@
+---
+title: "📅 CALENDARIO DE CONTENIDO — [MES] 2026"
+---
+
 # 📅 CALENDARIO DE CONTENIDO — [MES] 2026
 
 > Planificación mensual de vídeos y shorts. Actualizar semanalmente.

@@ -1,5 +1,5 @@
 ---
-title: Folder and Tag Listings
+title: "Folder and Tag Listings"
 tags:
   - feature/emitter
 ---

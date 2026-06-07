@@ -1,5 +1,5 @@
 ---
-title: Syntax Highlighting
+title: "Syntax Highlighting"
 tags:
   - feature/transformer
 ---

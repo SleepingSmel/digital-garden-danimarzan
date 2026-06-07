@@ -1,3 +1,7 @@
+---
+title: "A Lifetime of Personal Development in 18 Minutes — MoreMozi"
+---
+
 # A Lifetime of Personal Development in 18 Minutes — MoreMozi
 
 > **URL:** https://youtu.be/PsxOnxIU274

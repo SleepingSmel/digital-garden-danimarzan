@@ -3,6 +3,7 @@ date: 2026-06-03
 status: procesado
 tags: [jordi-segués, neuroventas, transcripción, youtube]
 ---
+title: 🧠 Jordi Segués — Cómo VENDER CUALQUIER COSA (Neuroventas)
 
 # 🧠 Jordi Segués — Cómo VENDER CUALQUIER COSA (Neuroventas)
 

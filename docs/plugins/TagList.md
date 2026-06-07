@@ -1,5 +1,5 @@
 ---
-title: TagList
+title: "TagList"
 description: Renders tags as clickable links.
 tags:
   - plugin/component

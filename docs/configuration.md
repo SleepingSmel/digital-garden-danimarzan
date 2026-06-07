@@ -1,5 +1,5 @@
 ---
-title: Configuration
+title: "Configuration"
 ---
 
 Quartz is meant to be extremely configurable, even if you don't know any coding. Most of the configuration you should need can be done by just editing `quartz.config.yaml`.

@@ -1,3 +1,7 @@
+---
+title: "🎯 Zor-Análisis — Audiencia de Dani Marzán"
+---
+
 # 🎯 Zor-Análisis — Audiencia de Dani Marzán
 
 > **Fuente:** Conversaciones con Daniel Marzán · Análisis del nicho · Referentes del sector

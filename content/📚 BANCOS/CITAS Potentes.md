@@ -1,3 +1,7 @@
+---
+title: "🔥 QUOTES POTENTES — 'Only a Slave Quantifies Its Existence Through Productivity'"
+---
+
 # 🔥 QUOTES POTENTES — "Only a Slave Quantifies Its Existence Through Productivity"
 
 > Conexiones filosóficas con quotes CORTAS, POTENTES, que DESGARRAN.

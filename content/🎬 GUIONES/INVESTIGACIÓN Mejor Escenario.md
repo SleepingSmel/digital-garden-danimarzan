@@ -1,3 +1,7 @@
+---
+title: "🔍 Investigación — 'El mejor escenario posible es una vida que da náuseas'"
+---
+
 # 🔍 Investigación — "El mejor escenario posible es una vida que da náuseas"
 
 > Referencias, autores, conexiones y pepitas para desarrollar el guión.

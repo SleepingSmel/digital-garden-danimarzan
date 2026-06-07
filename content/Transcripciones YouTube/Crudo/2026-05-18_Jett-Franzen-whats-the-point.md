@@ -1,3 +1,7 @@
+---
+title: "What's the Point?"
+---
+
 # What's the Point?
 
 ## Metadatos

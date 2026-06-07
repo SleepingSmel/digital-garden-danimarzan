@@ -1,3 +1,7 @@
+---
+title: "📅 Plan Fin de Semana — Daniel Marzán"
+---
+
 # 📅 Plan Fin de Semana — Daniel Marzán
 
 > Creado: 2026-05-27 (miércoles)

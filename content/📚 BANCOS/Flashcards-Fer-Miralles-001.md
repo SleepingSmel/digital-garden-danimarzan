@@ -1,3 +1,7 @@
+---
+title: "📚 Flashcards Fer Miralles #001 — Completo"
+---
+
 # 📚 Flashcards Fer Miralles #001 — Completo
 
 > 25 tarjetas densas desarrolladas con concepto + ejemplo + aplicación + conexión

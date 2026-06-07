@@ -1,5 +1,5 @@
 ---
-title: Feature List
+title: "Feature List"
 ---
 
 Quartz comes with a wide variety of features out of the box. Most features are powered by [[configuration#Plugins|plugins]] that can be configured, enabled, or disabled via `quartz.config.yaml`.

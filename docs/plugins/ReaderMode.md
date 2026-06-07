@@ -1,5 +1,5 @@
 ---
-title: ReaderMode
+title: "ReaderMode"
 description: Distraction-free reading mode toggle.
 tags:
   - plugin/component

@@ -1,5 +1,5 @@
 ---
-title: CreatedModifiedDate
+title: "CreatedModifiedDate"
 description: Determines creation and modification dates from frontmatter, git, or filesystem.
 tags:
   - plugin/transformer

@@ -1,5 +1,5 @@
 ---
-title: Bases Support
+title: "Bases Support"
 tags:
   - component
 ---

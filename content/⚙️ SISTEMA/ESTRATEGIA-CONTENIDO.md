@@ -1,3 +1,7 @@
+---
+title: "🎯 ESTRATEGIA DE CONTENIDO — Canal Dani Marzán"
+---
+
 # 🎯 ESTRATEGIA DE CONTENIDO — Canal Dani Marzán
 
 > **Fecha:** 2026-05-31

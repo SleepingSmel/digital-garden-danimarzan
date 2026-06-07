@@ -1,3 +1,7 @@
+---
+title: "🔬 DEEP DIVE: Víctor Heras — Modelo de Negocio Completo"
+---
+
 # 🔬 DEEP DIVE: Víctor Heras — Modelo de Negocio Completo
 
 > **Fecha investigación:** 2026-05-29

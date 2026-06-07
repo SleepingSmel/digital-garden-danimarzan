@@ -1,5 +1,5 @@
 ---
-title: Citations
+title: "Citations"
 description: Academic citation and bibliography support via BibTeX.
 tags:
   - plugin/transformer

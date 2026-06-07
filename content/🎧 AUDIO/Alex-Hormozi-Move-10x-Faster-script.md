@@ -1,3 +1,7 @@
+---
+title: "🎧 AUDIO LARGO — How To Move 10x Faster In Life"
+---
+
 # 🎧 AUDIO LARGO — How To Move 10x Faster In Life
 ## Alex Hormozi en Modern Wisdom con Chris Williamson
 **Duración original:** 2:54:28 | **Procesado:** 2026-05-30 | **TTS:** es-ES-Chirp3-HD-Achernar

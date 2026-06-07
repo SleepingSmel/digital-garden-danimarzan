@@ -1,3 +1,7 @@
+---
+title: "📋 TEMPLATE — Desglosación de Transcripción YouTube"
+---
+
 # 📋 TEMPLATE — Desglosación de Transcripción YouTube
 
 > **OBLIGATORIO para TODAS las transcripciones de YouTube.**

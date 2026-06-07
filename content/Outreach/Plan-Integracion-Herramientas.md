@@ -1,3 +1,7 @@
+---
+title: "Plan de Integración de Herramientas — Outreach B2B"
+---
+
 # Plan de Integración de Herramientas — Outreach B2B
 
 > **Fecha:** 2026-06-06

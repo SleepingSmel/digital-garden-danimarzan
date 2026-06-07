@@ -1,3 +1,7 @@
+---
+title: "🎬 Banco de Ideas de Guiones — Jett Franzen (Inspiración)"
+---
+
 # 🎬 Banco de Ideas de Guiones — Jett Franzen (Inspiración)
 
 > Ideas extraídas de los vídeos más vistos de Jett Franzen, traducidas y adaptadas como inspiración para guiones en español.

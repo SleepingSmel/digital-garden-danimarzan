@@ -1,3 +1,7 @@
+---
+title: "📋 GUÍA DE CONTENIDO — Dani Marzán"
+---
+
 # 📋 GUÍA DE CONTENIDO — Dani Marzán
 
 > **Última actualización:** 2026-05-25

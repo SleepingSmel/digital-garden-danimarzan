@@ -1,3 +1,7 @@
+---
+title: "💰 PLAN DE MONETIZACIÓN — Dani Marzán"
+---
+
 # 💰 PLAN DE MONETIZACIÓN — Dani Marzán
 
 > **Última actualización:** 2026-05-29

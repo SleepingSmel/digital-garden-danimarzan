@@ -1,5 +1,5 @@
 ---
-title: Authoring Content
+title: "Authoring Content"
 aliases:
   - "authoring content"
 ---
@@ -18,7 +18,7 @@ Additionally, Quartz also allows you to specify additional metadata in your note
 
 ```md title="content/note.md"
 ---
-title: Example Title
+title: "Example Title"
 draft: false
 tags:
   - example-tag

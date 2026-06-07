@@ -1,5 +1,5 @@
 ---
-title: FolderPage
+title: "FolderPage"
 description: Generates listing pages for folders.
 tags:
   - plugin/pageType

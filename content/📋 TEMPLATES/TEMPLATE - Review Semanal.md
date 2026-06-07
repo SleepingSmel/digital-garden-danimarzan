@@ -1,3 +1,7 @@
+---
+title: "📋 TEMPLATE — Review Semanal"
+---
+
 # 📋 TEMPLATE — Review Semanal
 
 > **Instrucción:** Rellenar cada domingo. Analizar qué funcionó, qué no, y planificar la siguiente semana.

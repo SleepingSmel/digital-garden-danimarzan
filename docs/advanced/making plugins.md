@@ -1,5 +1,5 @@
 ---
-title: Making your own plugins
+title: "Making your own plugins"
 ---
 
 > [!warning]

@@ -1,3 +1,7 @@
+---
+title: "ANÁLISIS CRÍTICO Y MEJORA DEL GUIÓN — VIDEO 1"
+---
+
 # ANÁLISIS CRÍTICO Y MEJORA DEL GUIÓN — VIDEO 1
 ## "La soledad y la máscara" — Talking Head en Naturaleza
 ### Hermakin para Daniel Marzán | 13 Mayo 2026

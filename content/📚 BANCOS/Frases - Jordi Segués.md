@@ -1,3 +1,7 @@
+---
+title: "🔥 Frases de Jordi Segués — Hooks y Citas"
+---
+
 # 🔥 Frases de Jordi Segués — Hooks y Citas
 
 > Frases cortas, potentes y memorables de Jordi Segués.

@@ -1,3 +1,7 @@
+---
+title: "Zor Resumen   Fer Miralles"
+---
+
 > **Autor:** Fer Miralles
 > **Enfoque:** Oratoria, persuasión, lenguaje corporal, comunicación
 > **Canal:** @FerMiralles

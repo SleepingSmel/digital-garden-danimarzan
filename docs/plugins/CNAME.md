@@ -1,5 +1,5 @@
 ---
-title: CNAME
+title: "CNAME"
 description: Emits a CNAME file for custom domain deployment.
 tags:
   - plugin/emitter
