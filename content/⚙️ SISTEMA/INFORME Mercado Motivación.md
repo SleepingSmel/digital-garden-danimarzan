@@ -1,5 +1,7 @@
 ---
 title: "📊 INFORME COMPLETO — Mercado Motivación Español + Sistema de Contenido"
+modified: 2026-06-07T22:04:17
+created: 2026-05-19T23:19:46
 ---
 
 # 📊 INFORME COMPLETO — Mercado Motivación Español + Sistema de Contenido

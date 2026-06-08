@@ -1,5 +1,7 @@
 ---
-title: "📚 BANCOS — Material de Referencia"
+title: 📚 BANCOS — Material de Referencia
+modified: 2026-06-07T20:38:53
+created: 2026-05-21T11:35:52
 ---
 
 # 📚 BANCOS — Material de Referencia

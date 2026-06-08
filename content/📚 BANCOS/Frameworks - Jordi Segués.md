@@ -1,5 +1,7 @@
 ---
-title: "🧠 Frameworks de Jordi Segués"
+title: 🧠 Frameworks de Jordi Segués
+modified: 2026-06-07T20:38:53
+created: 2026-05-21T12:57:02
 ---
 
 # 🧠 Frameworks de Jordi Segués

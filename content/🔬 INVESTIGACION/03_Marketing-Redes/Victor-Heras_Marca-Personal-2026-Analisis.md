@@ -1,5 +1,7 @@
 ---
-title: "🔥 ANÁLISIS — Víctor Heras: Cómo Crear una Marca Personal en 2026"
+title: '🔥 ANÁLISIS — Víctor Heras: Cómo Crear una Marca Personal en 2026'
+modified: 2026-06-07T20:38:53
+created: 2026-05-27T21:16:17
 ---
 
 # 🔥 ANÁLISIS — Víctor Heras: Cómo Crear una Marca Personal en 2026

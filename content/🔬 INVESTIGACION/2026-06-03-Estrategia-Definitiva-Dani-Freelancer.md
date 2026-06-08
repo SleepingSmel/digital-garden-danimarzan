@@ -3,6 +3,8 @@ date: 2026-06-03
 status: estrategia-activa
 prioridad: máxima
 tags: [estrategia, freelancer, redes-sociales, video, web, presencia-digital, jordi-segués, neuroventas]
+modified: 2026-06-07T20:38:53
+created: 2026-06-03T09:23:25
 ---
 title: 🎯 ESTRATEGIA DEFINITIVI — Dani Marzán Freelancer de Redes Sociales, Video, Web y Presencia Digital
 

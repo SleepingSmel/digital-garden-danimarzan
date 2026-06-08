@@ -1,5 +1,7 @@
 ---
-title: "🧠 NEUROCIENCIA DEL FRACASO — Datos para el Script 'He Fracasado'"
+title: '🧠 NEUROCIENCIA DEL FRACASO — Datos para el Script "He Fracasado"'
+modified: 2026-06-07T20:38:53
+created: 2026-05-20T10:15:26
 ---
 
 # 🧠 NEUROCIENCIA DEL FRACASO — Datos para el Script "He Fracasado"

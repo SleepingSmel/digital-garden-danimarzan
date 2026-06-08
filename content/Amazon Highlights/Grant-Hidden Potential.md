@@ -4,6 +4,8 @@ kindle-sync:
   title: Hidden Potential
   author: Adam Grant
   highlightsCount: 278
+modified: 2026-06-02T13:42:28
+created: 2026-06-02T13:42:28
 ---
 # Hidden Potential
 ## Metadata

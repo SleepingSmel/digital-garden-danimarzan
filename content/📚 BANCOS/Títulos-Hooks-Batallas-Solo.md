@@ -1,11 +1,13 @@
 ---
-title: "🎯 TÍTULOS CON HOOKS - Batallas que debes librar solo"
+title: 🎯 TÍTULOS CON HOOKS - Batallas que debes librar solo
 tags:
   - títulos
   - hooks
   - youtube
   - motivación
   - estrategia
+modified: 2026-06-07T20:38:53
+created: 2026-06-07T20:38:53
 ---
 
 # 🎯 TÍTULOS CON HOOKS - Batallas que debes librar solo

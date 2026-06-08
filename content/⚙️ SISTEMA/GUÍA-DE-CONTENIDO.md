@@ -1,5 +1,7 @@
 ---
-title: "📋 GUÍA DE CONTENIDO — Dani Marzán"
+title: 📋 GUÍA DE CONTENIDO — Dani Marzán
+modified: 2026-06-07T20:38:53
+created: 2026-05-25T17:45:52
 ---
 
 # 📋 GUÍA DE CONTENIDO — Dani Marzán

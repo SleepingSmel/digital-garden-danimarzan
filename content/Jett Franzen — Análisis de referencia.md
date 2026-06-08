@@ -1,5 +1,7 @@
 ---
-title: "🔍 Jett Franzen — Análisis de referencia"
+title: 🔍 Jett Franzen — Análisis de referencia
+modified: 2026-06-07T20:38:53
+created: 2026-05-17T15:56:15
 ---
 
 # 🔍 Jett Franzen — Análisis de referencia

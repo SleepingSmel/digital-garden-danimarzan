@@ -1,5 +1,7 @@
 ---
-title: "🗄️ ARCHIVO — Ya No Activo"
+title: 🗄️ ARCHIVO — Ya No Activo
+modified: 2026-06-07T20:38:53
+created: 2026-05-21T11:35:52
 ---
 
 # 🗄️ ARCHIVO — Ya No Activo

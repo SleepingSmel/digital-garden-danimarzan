@@ -4,6 +4,8 @@ kindle-sync:
   title: Musashi
   author: Eiji Yoshikawa
   highlightsCount: 7
+modified: 2026-06-02T13:42:28
+created: 2026-06-02T13:42:28
 ---
 # Musashi
 ## Metadata

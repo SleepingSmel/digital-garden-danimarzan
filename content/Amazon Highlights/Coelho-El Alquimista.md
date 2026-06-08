@@ -4,6 +4,8 @@ kindle-sync:
   title: El Alquimista
   author: Pablo Coelho
   highlightsCount: 10
+modified: 2026-06-02T13:42:28
+created: 2026-06-02T13:42:28
 ---
 # El Alquimista
 ## Metadata

@@ -1,5 +1,7 @@
 ---
-title: "TEMPLATE   Nuevo Vídeo"
+title: TEMPLATE   Nuevo Vídeo
+modified: 2026-06-07T20:38:53
+created: 2026-05-25T18:15:56
 ---
 
 ## 🎬 SCRIPT

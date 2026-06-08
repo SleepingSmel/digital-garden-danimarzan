@@ -4,6 +4,8 @@ kindle-sync:
   title: Homo videns. La sociedad teledirigida
   author: Giovanni Sartori
   highlightsCount: 47
+modified: 2026-06-02T13:42:28
+created: 2026-06-02T13:42:28
 ---
 # Homo videns. La sociedad teledirigida
 ## Metadata

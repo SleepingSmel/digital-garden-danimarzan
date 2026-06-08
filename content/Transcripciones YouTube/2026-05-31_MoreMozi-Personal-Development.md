@@ -1,5 +1,7 @@
 ---
-title: "A Lifetime of Personal Development in 18 Minutes — MoreMozi"
+title: A Lifetime of Personal Development in 18 Minutes — MoreMozi
+modified: 2026-06-07T20:38:53
+created: 2026-06-02T11:45:43
 ---
 
 # A Lifetime of Personal Development in 18 Minutes — MoreMozi

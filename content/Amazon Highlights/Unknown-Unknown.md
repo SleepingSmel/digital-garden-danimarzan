@@ -4,6 +4,8 @@ kindle-sync:
   title: Unknown
   author: Unknown
   highlightsCount: 21
+modified: 2026-06-02T13:42:28
+created: 2026-06-02T13:42:28
 ---
 # Unknown
 ## Metadata

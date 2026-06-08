@@ -1,5 +1,7 @@
 ---
-title: "Stop Taking Yourself Seriously"
+title: Stop Taking Yourself Seriously
+modified: 2026-06-07T20:38:53
+created: 2026-05-18T20:12:45
 ---
 
 # Stop Taking Yourself Seriously

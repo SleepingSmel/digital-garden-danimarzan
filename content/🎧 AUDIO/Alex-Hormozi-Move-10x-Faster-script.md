@@ -1,5 +1,7 @@
 ---
-title: "🎧 AUDIO LARGO — How To Move 10x Faster In Life"
+title: 🎧 AUDIO LARGO — How To Move 10x Faster In Life
+modified: 2026-06-07T20:38:53
+created: 2026-05-27T16:28:26
 ---
 
 # 🎧 AUDIO LARGO — How To Move 10x Faster In Life

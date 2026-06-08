@@ -1,5 +1,7 @@
 ---
-title: "📓 Resumen — Jordi Segués"
+title: 📓 Resumen — Jordi Segués
+modified: 2026-06-07T20:38:53
+created: 2026-05-23T11:13:25
 ---
 
 # 📓 Resumen — Jordi Segués

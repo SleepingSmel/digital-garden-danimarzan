@@ -4,6 +4,8 @@ kindle-sync:
   title: 'The Obstacle Is the Way: The Timeless Art of Turning Trials into Triumph'
   author: Ryan Holiday
   highlightsCount: 384
+modified: 2026-06-02T13:42:28
+created: 2026-06-02T13:42:28
 ---
 # The Obstacle Is the Way
 ## Metadata

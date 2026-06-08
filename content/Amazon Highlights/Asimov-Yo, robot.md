@@ -4,6 +4,8 @@ kindle-sync:
   title: 'Yo, robot'
   author: Isaac Asimov
   highlightsCount: 4
+modified: 2026-06-02T13:42:28
+created: 2026-06-02T13:42:28
 ---
 # Yo, robot
 ## Metadata

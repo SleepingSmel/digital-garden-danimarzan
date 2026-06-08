@@ -1,5 +1,7 @@
 ---
-title: "El Quijote y la juventud: los jóvenes del s.XXI saben que sus profesores les privan de conocimientos"
+title: 'El Quijote y la juventud: los jóvenes del s.XXI saben que sus profesores les privan de conocimientos'
+modified: 2026-06-07T20:38:53
+created: 2026-05-25T20:52:16
 ---
 
 # El Quijote y la juventud: los jóvenes del s.XXI saben que sus profesores les privan de conocimientos

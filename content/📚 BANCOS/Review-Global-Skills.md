@@ -1,10 +1,12 @@
 ---
-title: "🔍 REVIEW GLOBAL DE SKILLS — Análisis y Recomendaciones"
+title: 🔍 REVIEW GLOBAL DE SKILLS — Análisis y Recomendaciones
 tags:
   - review
   - skills
   - limpieza
   - optimización
+modified: 2026-06-07T20:38:53
+created: 2026-06-07T20:38:53
 ---
 
 # 🔍 REVIEW GLOBAL DE SKILLS — Análisis y Recomendaciones

@@ -1,5 +1,7 @@
 ---
-title: "🎬 BANCO DE IDEAS — Guiones Listos para Grabar"
+title: 🎬 BANCO DE IDEAS — Guiones Listos para Grabar
+modified: 2026-06-07T20:38:53
+created: 2026-05-22T21:38:24
 ---
 
 # 🎬 BANCO DE IDEAS — Guiones Listos para Grabar

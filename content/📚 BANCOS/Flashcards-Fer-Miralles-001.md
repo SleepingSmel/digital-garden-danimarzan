@@ -1,5 +1,7 @@
 ---
-title: "📚 Flashcards Fer Miralles #001 — Completo"
+title: '📚 Flashcards Fer Miralles #001 — Completo'
+modified: 2026-06-07T20:38:53
+created: 2026-05-24T17:46:09
 ---
 
 # 📚 Flashcards Fer Miralles #001 — Completo

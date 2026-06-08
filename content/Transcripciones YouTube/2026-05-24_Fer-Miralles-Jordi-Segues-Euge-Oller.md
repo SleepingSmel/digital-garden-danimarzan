@@ -1,5 +1,7 @@
 ---
 title: "🎙️ Fer Miralles #001 — Jordi Segués + Euge Oller"
+modified: 2026-06-07T22:04:17
+created: 2026-05-26T20:49:28
 ---
 
 # 🎙️ Fer Miralles #001 — Jordi Segués + Euge Oller

@@ -1,5 +1,7 @@
 ---
-title: "📋 TEMPLATE — Review Semanal"
+title: 📋 TEMPLATE — Review Semanal
+modified: 2026-06-07T20:38:53
+created: 2026-05-25T18:15:56
 ---
 
 # 📋 TEMPLATE — Review Semanal

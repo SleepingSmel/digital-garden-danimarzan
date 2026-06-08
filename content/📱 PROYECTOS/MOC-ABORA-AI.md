@@ -1,5 +1,7 @@
 ---
-title: "📱 MOC — Abora AI: Chat with Legends"
+title: '📱 MOC — Abora AI: Chat with Legends'
+modified: 2026-06-07T20:38:53
+created: 2026-06-02T11:45:43
 ---
 
 # 📱 MOC — Abora AI: Chat with Legends

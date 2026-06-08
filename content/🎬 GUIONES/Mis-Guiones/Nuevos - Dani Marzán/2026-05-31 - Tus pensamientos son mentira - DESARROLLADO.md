@@ -1,5 +1,7 @@
 ---
-title: "🎬 TUS PENSAMIENTOS SON MENTIRA — Guión Desarrollado"
+title: 🎬 TUS PENSAMIENTOS SON MENTIRA — Guión Desarrollado
+modified: 2026-06-07T20:38:53
+created: 2026-06-02T11:45:43
 ---
 
 # 🎬 TUS PENSAMIENTOS SON MENTIRA — Guión Desarrollado

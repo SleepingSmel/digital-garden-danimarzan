@@ -1,11 +1,13 @@
 ---
-title: "Isra Bravo — Compendio Unificado"
+title: Isra Bravo — Compendio Unificado
 tags:
   - isra-bravo
   - copywriting
   - ventas
   - persuasión
   - email-marketing
+modified: 2026-06-07T20:53:07
+created: 2026-06-07T20:38:53
 ---
 
 # Isra Bravo — Compendio Unificado

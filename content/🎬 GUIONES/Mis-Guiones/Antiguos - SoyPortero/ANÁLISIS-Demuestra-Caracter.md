@@ -1,5 +1,7 @@
 ---
-title: "🔬 ANÁLISIS HOLÍSTICO: 'Demuestra tu Carácter' — Daniel Marzán"
+title: '🔬 ANÁLISIS HOLÍSTICO: "Demuestra tu Carácter" — Daniel Marzán'
+modified: 2026-06-07T20:34:53
+created: 2026-05-29T12:54:33
 ---
 
 # 🔬 ANÁLISIS HOLÍSTICO: "Demuestra tu Carácter" — Daniel Marzán

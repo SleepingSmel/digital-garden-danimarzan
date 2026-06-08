@@ -1,5 +1,7 @@
 ---
-title: "🔥 QUOTES POTENTES — 'Only a Slave Quantifies Its Existence Through Productivity'"
+title: '🔥 QUOTES POTENTES — "Only a Slave Quantifies Its Existence Through Productivity"'
+modified: 2026-06-07T20:38:53
+created: 2026-05-18T21:28:16
 ---
 
 # 🔥 QUOTES POTENTES — "Only a Slave Quantifies Its Existence Through Productivity"

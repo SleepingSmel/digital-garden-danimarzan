@@ -1,5 +1,7 @@
 ---
 title: "Flashcards — How To Move 10x Faster In Life (Alex Hormozi + Chris Williamson)"
+modified: 2026-06-07T22:04:17
+created: 2026-05-27T16:28:26
 ---
 
 # Flashcards — How To Move 10x Faster In Life (Alex Hormozi + Chris Williamson)

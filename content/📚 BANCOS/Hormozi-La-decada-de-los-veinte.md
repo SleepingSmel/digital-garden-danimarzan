@@ -1,5 +1,7 @@
 ---
-title: "Hormozi — La década de los veinte"
+title: Hormozi — La década de los veinte
+modified: 2026-06-07T20:38:53
+created: 2026-06-01T20:52:55
 ---
 
 # Hormozi — La década de los veinte

@@ -1,5 +1,7 @@
 ---
-title: "📊 Pipeline de Prospección — Dani Marzán"
+title: 📊 Pipeline de Prospección — Dani Marzán
+modified: 2026-06-07T20:38:53
+created: 2026-06-03T19:52:50
 ---
 
 # 📊 Pipeline de Prospección — Dani Marzán

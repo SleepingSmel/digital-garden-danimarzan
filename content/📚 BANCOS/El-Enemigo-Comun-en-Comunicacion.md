@@ -1,5 +1,5 @@
 ---
-title: "🗡️ El Enemigo Común en Comunicación"
+title: 🗡️ El Enemigo Común en Comunicación
 tags:
   - enemigo-común
   - copywriting
@@ -7,6 +7,8 @@ tags:
   - isra-bravo
   - storytelling
   - marca-personal
+modified: 2026-06-07T20:34:53
+created: 2026-06-07T20:34:53
 ---
 
 # 🗡️ El Enemigo Común en Comunicación

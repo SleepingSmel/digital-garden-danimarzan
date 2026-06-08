@@ -1,5 +1,7 @@
 ---
-title: "🧠 ESTRATEGIA DE NEGOCIO — Dani Marzán"
+title: 🧠 ESTRATEGIA DE NEGOCIO — Dani Marzán
+modified: 2026-06-07T20:38:53
+created: 2026-05-29T08:04:16
 ---
 
 # 🧠 ESTRATEGIA DE NEGOCIO — Dani Marzán

@@ -3,6 +3,8 @@ date: 2026-06-03
 status: investigación
 prioridad: alta
 tags: [investigación, outreach, servicios, contenido, transición, mercado-hispano-usa, competencia]
+modified: 2026-06-07T20:38:53
+created: 2026-06-03T08:36:33
 ---
 title: 🔬 INVESTIGACIÓN PROFUNDA — Outreach, Servicios y Contenido
 

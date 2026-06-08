@@ -1,5 +1,7 @@
 ---
-title: "🎬 Jett Franzen — 'I've Lived More In My Head Than I've Lived In Real Life'"
+title: '🎬 Jett Franzen — "I"ve Lived More In My Head Than I"ve Lived In Real Life"'
+modified: 2026-06-07T20:38:53
+created: 2026-05-17T15:56:15
 ---
 
 # 🎬 Jett Franzen — "I've Lived More In My Head Than I've Lived In Real Life"

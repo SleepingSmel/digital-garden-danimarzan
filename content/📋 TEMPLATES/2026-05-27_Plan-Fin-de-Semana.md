@@ -1,5 +1,7 @@
 ---
-title: "📅 Plan Fin de Semana — Daniel Marzán"
+title: 📅 Plan Fin de Semana — Daniel Marzán
+modified: 2026-06-07T20:38:53
+created: 2026-05-27T16:28:26
 ---
 
 # 📅 Plan Fin de Semana — Daniel Marzán

@@ -1,5 +1,7 @@
 ---
-title: "Transcripciones YouTube"
+title: Transcripciones YouTube
+modified: 2026-06-07T20:38:53
+created: 2026-06-06T16:51:53
 ---
 
 # Transcripciones YouTube

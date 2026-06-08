@@ -1,5 +1,7 @@
 ---
-title: "🎬 NO ERES NADIE (Y eso es genial) — Template de Guión"
+title: 🎬 NO ERES NADIE (Y eso es genial) — Template de Guión
+modified: 2026-06-07T20:38:53
+created: 2026-06-02T11:45:43
 ---
 
 # 🎬 NO ERES NADIE (Y eso es genial) — Template de Guión

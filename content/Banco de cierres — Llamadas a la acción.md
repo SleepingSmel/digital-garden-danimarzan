@@ -1,5 +1,7 @@
 ---
-title: "🎯 Banco de cierres — Llamadas a la acción"
+title: 🎯 Banco de cierres — Llamadas a la acción
+modified: 2026-06-07T20:38:53
+created: 2026-05-17T15:56:15
 ---
 
 # 🎯 Banco de cierres — Llamadas a la acción

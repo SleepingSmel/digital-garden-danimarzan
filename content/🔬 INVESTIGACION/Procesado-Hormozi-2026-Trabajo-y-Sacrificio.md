@@ -1,5 +1,7 @@
 ---
-title: "Procesado - Hormozi 2026 Trabajo y Sacrificio"
+title: Procesado - Hormozi 2026 Trabajo y Sacrificio
+modified: 2026-06-07T20:38:53
+created: 2026-06-01T19:29:52
 ---
 
 # Procesado - Hormozi 2026 Trabajo y Sacrificio

@@ -1,5 +1,7 @@
 ---
-title: "📅 [FECHA] — Diario de Producción"
+title: '📅 [FECHA] — Diario de Producción'
+modified: 2026-06-07T20:38:53
+created: 2026-05-25T18:50:58
 ---
 
 # 📅 [FECHA] — Diario de Producción

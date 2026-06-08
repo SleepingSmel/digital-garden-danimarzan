@@ -1,5 +1,7 @@
 ---
-title: "🎬 La Década de Arriesgar — Guión Template"
+title: 🎬 La Década de Arriesgar — Guión Template
+modified: 2026-06-07T20:38:53
+created: 2026-06-01T20:49:06
 ---
 
 # 🎬 La Década de Arriesgar — Guión Template

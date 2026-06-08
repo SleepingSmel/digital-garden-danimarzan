@@ -2,6 +2,8 @@
 date: 2026-06-03
 status: plantilla
 tag: [template, contenido, transición, YouTube, TikTok]
+modified: 2026-06-07T20:38:53
+created: 2026-06-03T08:36:33
 ---
 title: 📋 TEMPLATE 4 — Formato de Transición: Porteros → Emprendedor
 

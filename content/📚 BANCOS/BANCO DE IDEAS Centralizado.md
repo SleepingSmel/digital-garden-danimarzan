@@ -1,5 +1,7 @@
 ---
-title: "💡 BANCO DE IDEAS — Centralizado"
+title: 💡 BANCO DE IDEAS — Centralizado
+modified: 2026-06-07T20:38:53
+created: 2026-05-25T18:15:56
 ---
 
 # 💡 BANCO DE IDEAS — Centralizado

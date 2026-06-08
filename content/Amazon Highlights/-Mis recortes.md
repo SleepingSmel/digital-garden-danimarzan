@@ -3,6 +3,8 @@ kindle-sync:
   bookId: '36052'
   title: Mis recortes
   highlightsCount: 1
+modified: 2026-06-02T13:42:28
+created: 2026-06-02T13:42:28
 ---
 # Mis recortes
 ## Metadata

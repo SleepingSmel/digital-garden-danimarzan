@@ -4,6 +4,8 @@ kindle-sync:
   title: The Coming Wave
   author: Mustafa Suleyman;Michael Bhaskar;
   highlightsCount: 23
+modified: 2026-06-02T13:42:28
+created: 2026-06-02T13:42:28
 ---
 # The Coming Wave
 ## Metadata

@@ -1,5 +1,7 @@
 ---
-title: "What's the Point?"
+title: 'What"s the Point?'
+modified: 2026-06-07T20:38:53
+created: 2026-05-18T20:12:45
 ---
 
 # What's the Point?

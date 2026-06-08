@@ -1,5 +1,7 @@
 ---
-title: "📋 Playbook de Prospección Automatizada"
+title: 📋 Playbook de Prospección Automatizada
+modified: 2026-06-07T20:38:53
+created: 2026-06-06T16:51:53
 ---
 
 # 📋 Playbook de Prospección Automatizada

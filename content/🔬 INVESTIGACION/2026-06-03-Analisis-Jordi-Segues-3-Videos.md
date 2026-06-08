@@ -3,6 +3,8 @@ date: 2026-06-03
 status: análisis-estrategia
 prioridad: alta
 tags: [jordi-segués, análisis, neuroventas, marca-personal, millonario, estrategia, lecciones]
+modified: 2026-06-07T20:38:53
+created: 2026-06-03T08:36:33
 ---
 title: 🧠 ANÁLISIS JORDI SEGUÉS — 3 Vídeos Procesados
 

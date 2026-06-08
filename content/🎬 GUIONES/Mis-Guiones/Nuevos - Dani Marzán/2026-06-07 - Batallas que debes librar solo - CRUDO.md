@@ -1,5 +1,5 @@
 ---
-title: "🎬 GUION CRUDO - Batallas que debes librar solo"
+title: 🎬 GUION CRUDO - Batallas que debes librar solo
 tags:
   - script
   - guion
@@ -9,6 +9,8 @@ tags:
   - miedo
   - conformismo
   - soberbia-positiva
+modified: 2026-06-07T20:38:53
+created: 2026-06-07T20:38:53
 ---
 
 # 🎬 GUION CRUDO - Batallas que debes librar solo

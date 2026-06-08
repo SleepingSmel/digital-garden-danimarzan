@@ -1,5 +1,7 @@
 ---
-title: "I've Lived More In My Head Than I've Lived In Real Life"
+title: 'I"ve Lived More In My Head Than I"ve Lived In Real Life'
+modified: 2026-06-07T20:38:53
+created: 2026-05-18T20:12:45
 ---
 
 # I've Lived More In My Head Than I've Lived In Real Life

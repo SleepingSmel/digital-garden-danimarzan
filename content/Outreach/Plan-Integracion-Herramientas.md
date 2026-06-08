@@ -1,5 +1,7 @@
 ---
-title: "Plan de Integración de Herramientas — Outreach B2B"
+title: Plan de Integración de Herramientas — Outreach B2B
+modified: 2026-06-07T20:38:53
+created: 2026-06-06T16:51:53
 ---
 
 # Plan de Integración de Herramientas — Outreach B2B

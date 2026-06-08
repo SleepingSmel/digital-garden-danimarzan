@@ -1,10 +1,12 @@
 ---
-title: "📋 DOCUMENTACIÓN DEL SISTEMA — Digital Garden Sync"
+title: 📋 DOCUMENTACIÓN DEL SISTEMA — Digital Garden Sync
 tags:
   - documentación
   - sistema
   - digital-garden
   - sync
+modified: 2026-06-07T20:38:53
+created: 2026-06-07T20:38:53
 ---
 
 # 📋 DOCUMENTACIÓN DEL SISTEMA — Digital Garden Sync

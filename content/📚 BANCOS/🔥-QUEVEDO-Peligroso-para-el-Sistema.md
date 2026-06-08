@@ -1,5 +1,7 @@
 ---
-title: "🔥 QUEVEDO — El tipo que dijo la verdad hace 400 años y el sistema no ha cambiado"
+title: 🔥 QUEVEDO — El tipo que dijo la verdad hace 400 años y el sistema no ha cambiado
+modified: 2026-06-07T20:38:53
+created: 2026-05-27T18:22:19
 ---
 
 # 🔥 QUEVEDO — El tipo que dijo la verdad hace 400 años y el sistema no ha cambiado

@@ -4,6 +4,8 @@ kindle-sync:
   title: Uncensored Picture of Dorian Gray (9780674071896)
   author: 'Wilde, Oscar; Frankel, Nicholas'
   highlightsCount: 3
+modified: 2026-06-02T13:42:28
+created: 2026-06-02T13:42:28
 ---
 # Uncensored Picture of Dorian Gray
 ## Metadata

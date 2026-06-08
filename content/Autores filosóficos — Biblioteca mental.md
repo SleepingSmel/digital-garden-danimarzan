@@ -1,5 +1,7 @@
 ---
-title: "📚 Autores filosóficos — Biblioteca mental"
+title: 📚 Autores filosóficos — Biblioteca mental
+modified: 2026-06-07T20:38:53
+created: 2026-05-17T15:56:15
 ---
 
 # 📚 Autores filosóficos — Biblioteca mental

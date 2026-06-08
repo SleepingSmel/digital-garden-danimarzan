@@ -4,6 +4,8 @@ kindle-sync:
   title: Ahora yo
   author: Mario Alonso Puig
   highlightsCount: 40
+modified: 2026-06-02T13:42:28
+created: 2026-06-02T13:42:28
 ---
 # Ahora yo
 ## Metadata

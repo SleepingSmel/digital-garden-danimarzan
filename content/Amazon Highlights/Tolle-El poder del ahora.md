@@ -4,6 +4,8 @@ kindle-sync:
   title: El poder del ahora
   author: Eckhart Tolle
   highlightsCount: 120
+modified: 2026-06-02T13:42:28
+created: 2026-06-02T13:42:28
 ---
 # El poder del ahora
 ## Metadata

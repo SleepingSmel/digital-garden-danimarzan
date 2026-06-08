@@ -1,5 +1,7 @@
 ---
-title: "🔬 INVESTIGACION — Profundidad por Tema"
+title: 🔬 INVESTIGACION — Profundidad por Tema
+modified: 2026-06-07T20:38:53
+created: 2026-05-21T11:35:52
 ---
 
 # 🔬 INVESTIGACION — Profundidad por Tema

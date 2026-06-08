@@ -1,5 +1,7 @@
 ---
-title: "Experto en Marketing: 7 Estrategias para Crecer en Redes y Vender Más"
+title: 'Experto en Marketing: 7 Estrategias para Crecer en Redes y Vender Más'
+modified: 2026-06-07T20:38:53
+created: 2026-05-19T17:10:19
 ---
 
 # Experto en Marketing: 7 Estrategias para Crecer en Redes y Vender Más

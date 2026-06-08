@@ -1,5 +1,7 @@
 ---
-title: "🎴 FLASHCARDS — Alex Hormozi: How To Move 10x Faster"
+title: '🎴 FLASHCARDS — Alex Hormozi: How To Move 10x Faster'
+modified: 2026-06-07T20:38:53
+created: 2026-05-30T15:44:46
 ---
 
 # 🎴 FLASHCARDS — Alex Hormozi: How To Move 10x Faster

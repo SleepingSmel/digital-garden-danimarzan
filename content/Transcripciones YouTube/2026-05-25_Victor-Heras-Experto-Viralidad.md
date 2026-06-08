@@ -1,5 +1,7 @@
 ---
-title: "Transcripción — Víctor Heras: Experto En Viralidad"
+title: 'Transcripción — Víctor Heras: Experto En Viralidad'
+modified: 2026-06-07T20:38:53
+created: 2026-05-25T06:53:16
 ---
 
 # Transcripción — Víctor Heras: Experto En Viralidad

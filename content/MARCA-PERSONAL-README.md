@@ -1,5 +1,7 @@
 ---
-title: "🎯 MARCA PERSONAL — Sistema Central"
+title: 🎯 MARCA PERSONAL — Sistema Central
+modified: 2026-06-07T20:38:53
+created: 2026-05-17T15:56:15
 ---
 
 # 🎯 MARCA PERSONAL — Sistema Central

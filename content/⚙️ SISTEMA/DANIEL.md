@@ -1,5 +1,7 @@
 ---
-title: "🧠 Perfil de Daniel — Documento de Referencia para Zor"
+title: 🧠 Perfil de Daniel — Documento de Referencia para Zor
+modified: 2026-06-07T20:38:53
+created: 2026-05-17T09:13:14
 ---
 
 # 🧠 Perfil de Daniel — Documento de Referencia para Zor

@@ -4,6 +4,8 @@ kindle-sync:
   title: 'The Age of Em: Work, Love and Life when Robots Rule the Earth'
   author: Robin Hanson
   highlightsCount: 7
+modified: 2026-06-02T13:42:28
+created: 2026-06-02T13:42:28
 ---
 # The Age of Em
 ## Metadata

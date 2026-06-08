@@ -1,5 +1,7 @@
 ---
-title: "💰 PLAN DE MONETIZACIÓN — Dani Marzán"
+title: 💰 PLAN DE MONETIZACIÓN — Dani Marzán
+modified: 2026-06-07T20:38:53
+created: 2026-05-24T15:31:29
 ---
 
 # 💰 PLAN DE MONETIZACIÓN — Dani Marzán

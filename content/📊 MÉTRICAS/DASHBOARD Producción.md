@@ -1,5 +1,7 @@
 ---
-title: "🎛️ DASHBOARD — Producción de Contenido"
+title: 🎛️ DASHBOARD — Producción de Contenido
+modified: 2026-06-07T20:38:53
+created: 2026-05-25T18:15:56
 ---
 
 # 🎛️ DASHBOARD — Producción de Contenido

@@ -1,5 +1,7 @@
 ---
-title: "🎤 Transcripción — Jon Hernández: 'IA, trabajo y el futuro que viene'"
+title: '🎤 Transcripción — Jon Hernández: "IA, trabajo y el futuro que viene"'
+modified: 2026-06-07T20:38:53
+created: 2026-05-17T19:05:29
 ---
 
 # 🎤 Transcripción — Jon Hernández: "IA, trabajo y el futuro que viene"

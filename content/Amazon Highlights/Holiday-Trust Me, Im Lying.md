@@ -4,6 +4,8 @@ kindle-sync:
   title: 'Trust Me, I''m Lying: Confessions of a Media Manipulator'
   author: 'Holiday, Ryan'
   highlightsCount: 32
+modified: 2026-06-02T13:42:28
+created: 2026-06-02T13:42:28
 ---
 # Trust Me, Im Lying
 ## Metadata

@@ -1,5 +1,7 @@
 ---
-title: "Procesado - Hormozi 2025 Best Moments Modern Wisdom"
+title: Procesado - Hormozi 2025 Best Moments Modern Wisdom
+modified: 2026-06-07T20:38:53
+created: 2026-06-01T19:55:32
 ---
 
 # Procesado - Hormozi 2025 Best Moments Modern Wisdom

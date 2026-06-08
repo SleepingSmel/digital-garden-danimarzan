@@ -4,6 +4,8 @@ kindle-sync:
   title: '1984'
   author: George Orwel
   highlightsCount: 112
+modified: 2026-06-02T13:42:28
+created: 2026-06-02T13:42:28
 ---
 # 1984
 ## Metadata

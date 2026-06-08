@@ -5,6 +5,8 @@ kindle-sync:
   author: 'Tegmark, Max'
   highlightsCount: 517
 sticker: lucide//brain-circuit
+modified: 2026-06-02T13:42:28
+created: 2026-06-02T13:42:28
 ---
 # Life 3.0
 ## Metadata

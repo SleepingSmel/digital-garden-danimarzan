@@ -5,6 +5,8 @@ kindle-sync:
   author: Kadavy, David
   highlightsCount: 94
 sticker:
+modified: 2026-06-02T13:42:28
+created: 2026-06-02T13:42:28
 ---
 # Digital Zettelkasten
 ## Metadata

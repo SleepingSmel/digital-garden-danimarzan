@@ -1,5 +1,7 @@
 ---
-title: "How To Move 10x Faster In Life — Alex Hormozi"
+title: How To Move 10x Faster In Life — Alex Hormozi
+modified: 2026-06-07T20:38:53
+created: 2026-05-27T16:28:26
 ---
 
 # How To Move 10x Faster In Life — Alex Hormozi

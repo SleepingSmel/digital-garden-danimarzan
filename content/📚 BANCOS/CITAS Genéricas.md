@@ -1,5 +1,7 @@
 ---
-title: "💎 QUOTES GENÉRICAS — Frases Potentes de Autores"
+title: 💎 QUOTES GENÉRICAS — Frases Potentes de Autores
+modified: 2026-06-07T20:38:53
+created: 2026-05-18T21:50:31
 ---
 
 # 💎 QUOTES GENÉRICAS — Frases Potentes de Autores

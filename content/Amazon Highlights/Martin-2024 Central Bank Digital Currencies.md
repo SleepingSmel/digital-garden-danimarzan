@@ -6,6 +6,8 @@ kindle-sync:
     Battle for Privacy and Freedom
   author: Joe Martin
   highlightsCount: 177
+modified: 2026-06-02T13:42:28
+created: 2026-06-02T13:42:28
 ---
 # "2024": Central Bank Digital Currencies
 ## Metadata

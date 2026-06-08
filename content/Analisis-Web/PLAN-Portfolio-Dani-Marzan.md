@@ -1,5 +1,7 @@
 ---
-title: "PLAN: Portfolio Dani Marzán — Estilo Viszen Simplificado"
+title: 'PLAN: Portfolio Dani Marzán — Estilo Viszen Simplificado'
+modified: 2026-06-07T20:38:53
+created: 2026-06-06T16:51:53
 ---
 
 # PLAN: Portfolio Dani Marzán — Estilo Viszen Simplificado

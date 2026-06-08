@@ -1,5 +1,7 @@
 ---
-title: "📚 LIBROS — Análisis y Conexiones"
+title: 📚 LIBROS — Análisis y Conexiones
+modified: 2026-06-07T20:38:53
+created: 2026-06-02T14:29:58
 ---
 
 # 📚 LIBROS — Análisis y Conexiones

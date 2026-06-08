@@ -4,6 +4,8 @@ kindle-sync:
   title: Meditations
   author: Marcus Aurelius
   highlightsCount: 34
+modified: 2026-06-02T13:42:28
+created: 2026-06-02T13:42:28
 ---
 # Meditations
 ## Metadata

@@ -1,5 +1,7 @@
 ---
-title: "🪝 Banco de hooks — Frases rompedoras"
+title: 🪝 Banco de hooks — Frases rompedoras
+modified: 2026-06-07T20:38:53
+created: 2026-06-06T16:51:53
 ---
 
 # 🪝 Banco de hooks — Frases rompedoras

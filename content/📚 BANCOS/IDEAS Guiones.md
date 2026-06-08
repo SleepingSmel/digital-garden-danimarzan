@@ -1,5 +1,7 @@
 ---
-title: "🎬 Banco de Ideas de Guiones — Jett Franzen (Inspiración)"
+title: 🎬 Banco de Ideas de Guiones — Jett Franzen (Inspiración)
+modified: 2026-06-07T20:38:53
+created: 2026-05-17T16:42:38
 ---
 
 # 🎬 Banco de Ideas de Guiones — Jett Franzen (Inspiración)

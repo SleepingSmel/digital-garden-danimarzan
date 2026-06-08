@@ -1,5 +1,7 @@
 ---
-title: "🎯 MARCA DANI MARZÁN — Manual de Identidad"
+title: 🎯 MARCA DANI MARZÁN — Manual de Identidad
+modified: 2026-06-07T20:38:53
+created: 2026-05-22T21:38:24
 ---
 
 # 🎯 MARCA DANI MARZÁN — Manual de Identidad

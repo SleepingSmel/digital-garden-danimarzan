@@ -1,5 +1,7 @@
 ---
-title: "🎬 Estás Hablando, No Trabajando — Guión desde Alex Hormozi"
+title: 🎬 Estás Hablando, No Trabajando — Guión desde Alex Hormozi
+modified: 2026-06-07T20:38:53
+created: 2026-06-02T11:45:43
 ---
 
 # 🎬 Estás Hablando, No Trabajando — Guión desde Alex Hormozi

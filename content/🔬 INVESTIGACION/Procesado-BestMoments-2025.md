@@ -1,5 +1,7 @@
 ---
-title: "Procesado - Best Moments Modern Wisdom 2025"
+title: Procesado - Best Moments Modern Wisdom 2025
+modified: 2026-06-07T20:38:53
+created: 2026-06-01T20:33:05
 ---
 
 # Procesado - Best Moments Modern Wisdom 2025

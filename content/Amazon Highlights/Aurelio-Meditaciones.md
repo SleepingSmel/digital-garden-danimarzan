@@ -4,6 +4,8 @@ kindle-sync:
   title: Meditaciones
   author: Marco Aurelio
   highlightsCount: 8
+modified: 2026-06-02T13:42:28
+created: 2026-06-02T13:42:28
 ---
 # Meditaciones
 ## Metadata

@@ -2,6 +2,8 @@
 date: 2026-06-03
 status: procesado
 tags: [jordi-segués, millonario, negocio, transcripción, youtube, estrategia]
+modified: 2026-06-07T20:38:53
+created: 2026-06-03T09:12:21
 ---
 title: 💰 Jordi Segués — Qué HACER para ser MILLONARIO con tu Negocio y Redes
 

@@ -1,5 +1,7 @@
 ---
-title: "🔧 Fuentes y Herramientas de Investigación"
+title: 🔧 Fuentes y Herramientas de Investigación
+modified: 2026-06-07T20:38:53
+created: 2026-05-18T20:12:45
 ---
 
 # 🔧 Fuentes y Herramientas de Investigación

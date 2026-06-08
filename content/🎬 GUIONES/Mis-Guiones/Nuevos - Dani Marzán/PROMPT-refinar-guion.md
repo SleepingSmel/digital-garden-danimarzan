@@ -1,5 +1,7 @@
 ---
-title: "PROMPT PARA REFINAR GUION — 'Estás Hablando, No Trabajando'"
+title: 'PROMPT PARA REFINAR GUION — "Estás Hablando, No Trabajando"'
+modified: 2026-06-07T20:38:53
+created: 2026-06-02T11:45:43
 ---
 
 # PROMPT PARA REFINAR GUION — "Estás Hablando, No Trabajando"

@@ -3,6 +3,8 @@ date: 2026-06-03
 status: activo
 tags: [outreach, clientes, negocio, servicios-redes-sociales, estrategia]
 prioridad: alta
+modified: 2026-06-07T20:38:53
+created: 2026-06-03T08:36:33
 ---
 title: 🎯 PROSPECCIÓN DE CLIENTES — Plan de Outreach
 

@@ -1,5 +1,7 @@
 ---
-title: "🐺 MENTALIDAD 'LEVÁNTATE Y ESFUÉRZATE' — Análisis Completo"
+title: '🐺 MENTALIDAD "LEVÁNTATE Y ESFUÉRZATE" — Análisis Completo'
+modified: 2026-06-07T20:38:53
+created: 2026-05-20T10:15:26
 ---
 
 # 🐺 MENTALIDAD "LEVÁNTATE Y ESFUÉRZATE" — Análisis Completo

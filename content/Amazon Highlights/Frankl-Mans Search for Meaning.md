@@ -4,6 +4,8 @@ kindle-sync:
   title: Man's Search for Meaning
   author: Viktor E. Frankl
   highlightsCount: 52
+modified: 2026-06-02T13:42:28
+created: 2026-06-02T13:42:28
 ---
 # Mans Search for Meaning
 ## Metadata

@@ -4,6 +4,8 @@ kindle-sync:
   title: Los Miserables
   author: Victor Hugo
   highlightsCount: 1
+modified: 2026-06-02T13:42:28
+created: 2026-06-02T13:42:28
 ---
 # Los Miserables
 ## Metadata

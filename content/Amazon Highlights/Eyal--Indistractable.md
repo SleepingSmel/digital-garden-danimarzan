@@ -4,6 +4,8 @@ kindle-sync:
   title: Indistractable
   author: Nir Eyal;
   highlightsCount: 86
+modified: 2026-06-02T13:42:28
+created: 2026-06-02T13:42:28
 ---
 # Indistractable
 ## Metadata

@@ -1,5 +1,7 @@
 ---
-title: "📓 NotebookLM — Guía de Preguntas por Cuaderno"
+title: 📓 NotebookLM — Guía de Preguntas por Cuaderno
+modified: 2026-06-07T20:38:53
+created: 2026-05-21T12:10:17
 ---
 
 # 📓 NotebookLM — Guía de Preguntas por Cuaderno

@@ -4,6 +4,8 @@ kindle-sync:
   title: The 48 Laws of Power
   author: Robert Greene; Joost Elffers
   highlightsCount: 1173
+modified: 2026-06-02T13:42:28
+created: 2026-06-02T13:42:28
 ---
 # The 48 Laws of Power
 ## Metadata

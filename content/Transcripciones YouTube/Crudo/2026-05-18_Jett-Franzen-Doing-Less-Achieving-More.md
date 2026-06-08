@@ -1,5 +1,7 @@
 ---
 title: "Doing Less = Achieving More"
+modified: 2026-06-07T22:04:17
+created: 2026-05-18T20:12:45
 ---
 
 # Doing Less = Achieving More

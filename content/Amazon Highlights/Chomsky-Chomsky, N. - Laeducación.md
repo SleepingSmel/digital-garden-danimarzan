@@ -4,6 +4,8 @@ kindle-sync:
   title: 'Chomsky, N. - La (des) educación'
   author: Chomsky
   highlightsCount: 8
+modified: 2026-06-02T13:42:28
+created: 2026-06-02T13:42:28
 ---
 # Chomsky, N. - Laeducación
 ## Metadata

@@ -1,5 +1,7 @@
 ---
-title: "🔍 Investigación Desarrollada — 'El mejor escenario posible es una vida que da náuseas'"
+title: '🔍 Investigación Desarrollada — "El mejor escenario posible es una vida que da náuseas"'
+modified: 2026-06-07T20:38:53
+created: 2026-05-17T17:59:13
 ---
 
 # 🔍 Investigación Desarrollada — "El mejor escenario posible es una vida que da náuseas"

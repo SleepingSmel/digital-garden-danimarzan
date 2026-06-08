@@ -1,5 +1,7 @@
 ---
-title: "Procesado - Andy Frisella 2025 Realidad del Esfuerzo"
+title: Procesado - Andy Frisella 2025 Realidad del Esfuerzo
+modified: 2026-06-07T20:38:53
+created: 2026-06-01T20:56:45
 ---
 
 # Procesado - Andy Frisella 2025 Realidad del Esfuerzo

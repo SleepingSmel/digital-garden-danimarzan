@@ -4,6 +4,8 @@ kindle-sync:
   title: Un mundo feliz
   author: Aldous Huxley
   highlightsCount: 68
+modified: 2026-06-02T13:42:28
+created: 2026-06-02T13:42:28
 ---
 # Un mundo feliz
 ## Metadata
